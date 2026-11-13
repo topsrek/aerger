@@ -1,0 +1,12 @@
+{
+  "name": "Mensch ärgere Dich nicht!",
+  "short_name": "Ärger",
+  "lang": "de",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c0c0c0",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

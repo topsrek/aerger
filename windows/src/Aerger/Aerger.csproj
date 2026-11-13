@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>Reference/original.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="../../../original/BEISPIEL.ERG" Link="Data/BEISPIEL.ERG" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    <EmbeddedResource Include="Reference/dialogs.json;Reference/original.ico;Reference/ERGWIN.rtf" />
+    <EmbeddedResource Include="Reference/Bwcc/*.png" />
+    <EmbeddedResource Include="Reference/Cursors/*.cur" />
+    <EmbeddedResource Include="Reference/Timeline/*.txt" />
+    <EmbeddedResource Include="Reference/Screenshots/*.png" />
+    <Content Include="../../../original/AERGER.CFG" Link="Data/AERGER.CFG" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+    <Content Include="../../../original/GRAPH*.DAT;../../../original/GRAPH*.IDX;../../../original/SOUNDS.DAT;../../../original/SOUNDS.IDX" Link="Data/%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+  </ItemGroup>
+</Project>

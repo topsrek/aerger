@@ -1,0 +1,2372 @@
+# AERGER.EXE timeline: seed 0x5eed1995, speed 3, 4 computer players, 150 rolls, rules 1000011
+1 roll
+2 face 5
+3 face 1
+4 face 2
+5 face 1
+6 face 4
+7 face 4
+8 face 5
+9 face 6
+10 face 1
+11 face 5
+20 rolled 5 next 1
+21 roll
+22 face 3
+23 face 2
+24 face 4
+25 face 4
+26 face 3
+27 face 1
+28 face 5
+29 face 3
+30 face 6
+31 face 4
+40 rolled 4 next 1
+41 roll
+42 face 3
+43 face 5
+44 face 4
+45 face 1
+46 face 4
+47 face 1
+48 face 5
+49 face 3
+50 face 1
+51 face 6
+60 rolled 6 move
+61 place 1 1 1
+63 roll
+64 face 5
+65 face 4
+66 face 3
+67 face 4
+68 face 3
+69 face 3
+70 face 4
+71 face 3
+72 face 2
+73 face 6
+82 rolled 6 move
+83 move 1 1
+84 step 2
+85 step 3
+86 step 4
+87 step 5
+88 step 6
+89 step 7
+90 moved 1
+91 roll
+92 face 3
+93 face 4
+94 face 4
+95 face 2
+96 face 1
+97 face 5
+98 face 6
+99 face 4
+100 face 1
+101 face 2
+110 rolled 2 move
+111 move 1 7
+112 step 8
+113 step 9
+114 moved 2
+115 roll
+116 face 3
+117 face 2
+118 face 3
+119 face 2
+120 face 2
+121 face 4
+122 face 4
+123 face 1
+124 face 4
+125 face 2
+134 rolled 2 next 2
+135 roll
+136 face 6
+137 face 6
+138 face 4
+139 face 6
+140 face 1
+141 face 3
+142 face 2
+143 face 4
+144 face 2
+145 face 2
+154 rolled 2 next 2
+155 roll
+156 face 3
+157 face 5
+158 face 1
+159 face 6
+160 face 3
+161 face 2
+162 face 3
+163 face 5
+164 face 1
+165 face 6
+174 rolled 6 move
+175 place 2 11 2
+177 roll
+178 face 5
+179 face 4
+180 face 1
+181 face 5
+182 face 5
+183 face 6
+184 face 5
+185 face 2
+186 face 1
+187 face 6
+196 rolled 6 move
+197 move 2 11
+198 step 12
+199 step 13
+200 step 14
+201 step 15
+202 step 16
+203 step 17
+204 moved 2
+205 roll
+206 face 5
+207 face 4
+208 face 4
+209 face 6
+210 face 4
+211 face 1
+212 face 1
+213 face 1
+214 face 6
+215 face 5
+224 rolled 5 move
+225 move 2 17
+226 step 18
+227 step 19
+228 step 20
+229 step 21
+230 step 22
+231 moved 3
+232 roll
+233 face 3
+234 face 1
+235 face 3
+236 face 1
+237 face 4
+238 face 1
+239 face 1
+240 face 4
+241 face 6
+242 face 5
+251 rolled 5 next 3
+252 roll
+253 face 5
+254 face 4
+255 face 4
+256 face 5
+257 face 2
+258 face 6
+259 face 2
+260 face 6
+261 face 4
+262 face 1
+271 rolled 1 move
+272 place 3 21 3
+274 roll
+275 face 2
+276 face 2
+277 face 4
+278 face 5
+279 face 1
+280 face 4
+281 face 6
+282 face 3
+283 face 1
+284 face 3
+293 rolled 3 move
+294 move 3 21
+295 step 22
+296 step 23
+297 step 24
+298 moved 4
+299 roll
+300 face 5
+301 face 6
+302 face 1
+303 face 5
+304 face 6
+305 face 2
+306 face 3
+307 face 5
+308 face 1
+309 face 1
+318 rolled 1 move
+319 place 4 31 4
+321 roll
+322 face 2
+323 face 6
+324 face 6
+325 face 2
+326 face 3
+327 face 1
+328 face 5
+329 face 6
+330 face 2
+331 face 2
+340 rolled 2 move
+341 move 4 31
+342 step 32
+343 step 33
+344 moved 1
+345 roll
+346 face 5
+347 face 4
+348 face 6
+349 face 4
+350 face 5
+351 face 2
+352 face 3
+353 face 3
+354 face 5
+355 face 3
+364 rolled 3 move
+365 move 1 9
+366 step 10
+367 step 11
+368 step 12
+369 moved 2
+370 roll
+371 face 4
+372 face 4
+373 face 1
+374 face 1
+375 face 6
+376 face 5
+377 face 6
+378 face 3
+379 face 3
+380 face 2
+389 rolled 2 move
+390 move 2 22
+391 step 23
+392 step 24
+393 moved 3
+394 roll
+395 face 1
+396 face 1
+397 face 4
+398 face 6
+399 face 5
+400 face 4
+401 face 3
+402 face 6
+403 face 6
+404 face 3
+413 rolled 3 next 3
+414 roll
+415 face 5
+416 face 1
+417 face 6
+418 face 3
+419 face 4
+420 face 3
+421 face 4
+422 face 1
+423 face 3
+424 face 3
+433 rolled 3 next 3
+434 roll
+435 face 1
+436 face 2
+437 face 4
+438 face 4
+439 face 2
+440 face 1
+441 face 5
+442 face 1
+443 face 4
+444 face 6
+453 rolled 6 move
+454 place 3 21 3
+456 roll
+457 face 3
+458 face 2
+459 face 5
+460 face 1
+461 face 1
+462 face 3
+463 face 6
+464 face 2
+465 face 3
+466 face 4
+475 rolled 4 move
+476 move 3 21
+477 step 22
+478 step 23
+479 step 24
+480 step 25
+481 moved 4
+482 roll
+483 face 4
+484 face 3
+485 face 5
+486 face 1
+487 face 5
+488 face 2
+489 face 5
+490 face 3
+491 face 2
+492 face 3
+501 rolled 3 move
+502 move 4 33
+503 step 34
+504 step 35
+505 step 36
+506 moved 1
+507 roll
+508 face 3
+509 face 6
+510 face 5
+511 face 3
+512 face 3
+513 face 5
+514 face 6
+515 face 5
+516 face 2
+517 face 5
+526 rolled 5 move
+527 move 1 12
+528 step 13
+529 step 14
+530 step 15
+531 step 16
+532 step 17
+533 moved 2
+534 roll
+535 face 3
+536 face 2
+537 face 4
+538 face 2
+539 face 5
+540 face 1
+541 face 2
+542 face 1
+543 face 3
+544 face 4
+553 rolled 4 move
+554 move 2 24
+555 step 25
+556 step 26
+557 step 27
+558 step 28
+559 moved 3
+560 roll
+561 face 5
+562 face 4
+563 face 5
+564 face 2
+565 face 2
+566 face 3
+567 face 5
+568 face 5
+569 face 2
+570 face 6
+579 rolled 6 move
+580 place 3 21 3
+582 roll
+583 face 6
+584 face 1
+585 face 5
+586 face 2
+587 face 3
+588 face 2
+589 face 3
+590 face 1
+591 face 4
+592 face 3
+601 rolled 3 move
+602 move 3 21
+603 step 22
+604 step 23
+605 step 24
+606 moved 4
+607 roll
+608 face 2
+609 face 5
+610 face 3
+611 face 1
+612 face 1
+613 face 6
+614 face 6
+615 face 5
+616 face 2
+617 face 3
+626 rolled 3 move
+627 move 4 36
+628 step 37
+629 step 38
+630 step 39
+631 moved 1
+632 roll
+633 face 4
+634 face 2
+635 face 2
+636 face 1
+637 face 1
+638 face 6
+639 face 1
+640 face 5
+641 face 2
+642 face 1
+651 rolled 1 move
+652 place 1 1 1
+654 roll
+655 face 5
+656 face 5
+657 face 6
+658 face 6
+659 face 4
+660 face 3
+661 face 3
+662 face 5
+663 face 6
+664 face 6
+673 rolled 6 move
+674 move 1 1
+675 step 2
+676 step 3
+677 step 4
+678 step 5
+679 step 6
+680 step 7
+681 moved 1
+682 roll
+683 face 6
+684 face 6
+685 face 2
+686 face 3
+687 face 5
+688 face 1
+689 face 6
+690 face 6
+691 face 1
+692 face 3
+701 rolled 3 move
+702 move 1 17
+703 step 18
+704 step 19
+705 step 20
+706 moved 2
+707 roll
+708 face 4
+709 face 1
+710 face 1
+711 face 5
+712 face 5
+713 face 6
+714 face 4
+715 face 4
+716 face 1
+717 face 5
+726 rolled 5 move
+727 move 2 28
+728 step 29
+729 step 30
+730 step 31
+731 step 32
+732 step 33
+733 moved 3
+734 roll
+735 face 4
+736 face 2
+737 face 5
+738 face 3
+739 face 6
+740 face 5
+741 face 4
+742 face 2
+743 face 1
+744 face 2
+753 rolled 2 move
+754 move 3 24
+755 step 25
+756 step 26
+757 moved 4
+758 roll
+759 face 6
+760 face 2
+761 face 5
+762 face 2
+763 face 6
+764 face 1
+765 face 1
+766 face 3
+767 face 2
+768 face 5
+777 rolled 5 move
+778 move 4 39
+779 step 40
+780 step 1
+781 step 2
+782 step 3
+783 step 4
+784 moved 1
+785 roll
+786 face 2
+787 face 4
+788 face 2
+789 face 1
+790 face 5
+791 face 3
+792 face 3
+793 face 1
+794 face 3
+795 face 4
+804 rolled 4 move
+805 move 1 20
+806 step 21
+807 step 22
+808 step 23
+809 step 24
+810 moved 2
+811 roll
+812 face 6
+813 face 1
+814 face 3
+815 face 3
+816 face 2
+817 face 4
+818 face 6
+819 face 2
+820 face 4
+821 face 1
+830 rolled 1 move
+831 place 2 11 2
+833 roll
+834 face 5
+835 face 2
+836 face 1
+837 face 2
+838 face 6
+839 face 1
+840 face 4
+841 face 5
+842 face 2
+843 face 6
+852 rolled 6 move
+853 move 2 11
+854 step 12
+855 step 13
+856 step 14
+857 step 15
+858 step 16
+859 step 17
+860 moved 2
+861 roll
+862 face 4
+863 face 6
+864 face 3
+865 face 4
+866 face 5
+867 face 2
+868 face 5
+869 face 1
+870 face 2
+871 face 2
+880 rolled 2 move
+881 move 2 33
+882 step 34
+883 step 35
+884 moved 3
+885 roll
+886 face 4
+887 face 2
+888 face 5
+889 face 5
+890 face 6
+891 face 1
+892 face 2
+893 face 6
+894 face 1
+895 face 5
+904 rolled 5 move
+905 move 3 25
+906 step 26
+907 step 27
+908 step 28
+909 step 29
+910 step 30
+911 moved 4
+912 roll
+913 face 1
+914 face 4
+915 face 6
+916 face 4
+917 face 1
+918 face 2
+919 face 2
+920 face 2
+921 face 6
+922 face 3
+931 rolled 3 move
+932 move 4 4
+933 step 5
+934 step 6
+935 step 7
+936 moved 1
+937 roll
+938 face 2
+939 face 6
+940 face 4
+941 face 3
+942 face 6
+943 face 5
+944 face 1
+945 face 4
+946 face 1
+947 face 6
+956 rolled 6 move
+957 place 1 1 1
+959 roll
+960 face 2
+961 face 6
+962 face 2
+963 face 4
+964 face 6
+965 face 4
+966 face 2
+967 face 5
+968 face 6
+969 face 1
+978 rolled 1 move
+979 move 1 1
+980 step 2
+981 moved 1
+982 roll
+983 face 5
+984 face 5
+985 face 6
+986 face 4
+987 face 6
+988 face 4
+989 face 5
+990 face 3
+991 face 5
+992 face 1
+1001 rolled 1 move
+1002 place 1 1 1
+1004 roll
+1005 face 3
+1006 face 3
+1007 face 1
+1008 face 5
+1009 face 1
+1010 face 4
+1011 face 4
+1012 face 1
+1013 face 4
+1014 face 1
+1023 rolled 1 move
+1024 move 1 2
+1025 step 3
+1026 moved 1
+1027 roll
+1028 face 3
+1029 face 1
+1030 face 5
+1031 face 3
+1032 face 5
+1033 face 5
+1034 face 3
+1035 face 4
+1036 face 2
+1037 face 1
+1046 rolled 1 move
+1047 move 1 1
+1048 step 2
+1049 moved 1
+1050 roll
+1051 face 5
+1052 face 3
+1053 face 5
+1054 face 4
+1055 face 4
+1056 face 6
+1057 face 5
+1058 face 3
+1059 face 6
+1060 face 6
+1069 rolled 6 move
+1070 place 1 1 1
+1072 roll
+1073 face 4
+1074 face 3
+1075 face 2
+1076 face 2
+1077 face 2
+1078 face 5
+1079 face 2
+1080 face 3
+1081 face 6
+1082 face 4
+1091 rolled 4 move
+1092 move 1 3
+1093 step 4
+1094 step 5
+1095 step 6
+1096 step 7
+1097 moved 2
+1098 roll
+1099 face 6
+1100 face 4
+1101 face 1
+1102 face 3
+1103 face 1
+1104 face 2
+1105 face 4
+1106 face 4
+1107 face 4
+1108 face 1
+1117 rolled 1 move
+1118 place 2 11 2
+1120 roll
+1121 face 1
+1122 face 5
+1123 face 4
+1124 face 2
+1125 face 4
+1126 face 3
+1127 face 5
+1128 face 2
+1129 face 3
+1130 face 1
+1139 rolled 1 move
+1140 move 2 11
+1141 step 12
+1142 moved 2
+1143 roll
+1144 face 3
+1145 face 1
+1146 face 6
+1147 face 2
+1148 face 6
+1149 face 6
+1150 face 2
+1151 face 5
+1152 face 1
+1153 face 2
+1162 rolled 2 move
+1163 move 2 17
+1164 step 18
+1165 step 19
+1166 moved 3
+1167 roll
+1168 face 1
+1169 face 6
+1170 face 4
+1171 face 4
+1172 face 4
+1173 face 1
+1174 face 6
+1175 face 2
+1176 face 6
+1177 face 4
+1186 rolled 4 move
+1187 move 3 30
+1188 step 31
+1189 step 32
+1190 step 33
+1191 step 34
+1192 moved 4
+1193 roll
+1194 face 1
+1195 face 3
+1196 face 6
+1197 face 6
+1198 face 1
+1199 face 5
+1200 face 5
+1201 face 2
+1202 face 5
+1203 face 2
+1212 rolled 2 next 4
+1213 roll
+1214 face 5
+1215 face 5
+1216 face 1
+1217 face 2
+1218 face 5
+1219 face 6
+1220 face 5
+1221 face 4
+1222 face 1
+1223 face 3
+1232 rolled 3 next 4
+1233 roll
+1234 face 2
+1235 face 1
+1236 face 6
+1237 face 2
+1238 face 2
+1239 face 1
+1240 face 6
+1241 face 2
+1242 face 6
+1243 face 3
+1252 rolled 3 next 1
+1253 roll
+1254 face 3
+1255 face 1
+1256 face 3
+1257 face 3
+1258 face 3
+1259 face 5
+1260 face 3
+1261 face 6
+1262 face 4
+1263 face 1
+1272 rolled 1 move
+1273 move 1 24
+1274 step 25
+1275 moved 1
+1276 roll
+1277 face 1
+1278 face 3
+1279 face 2
+1280 face 4
+1281 face 2
+1282 face 5
+1283 face 3
+1284 face 4
+1285 face 6
+1286 face 3
+1295 rolled 3 move
+1296 move 1 2
+1297 step 3
+1298 step 4
+1299 step 5
+1300 moved 2
+1301 roll
+1302 face 2
+1303 face 5
+1304 face 3
+1305 face 4
+1306 face 3
+1307 face 6
+1308 face 6
+1309 face 3
+1310 face 3
+1311 face 4
+1320 rolled 4 move
+1321 move 2 19
+1322 step 20
+1323 step 21
+1324 step 22
+1325 step 23
+1326 moved 3
+1327 roll
+1328 face 3
+1329 face 5
+1330 face 5
+1331 face 6
+1332 face 1
+1333 face 6
+1334 face 5
+1335 face 1
+1336 face 5
+1337 face 2
+1346 rolled 2 move
+1347 move 3 26
+1348 step 27
+1349 step 28
+1350 moved 4
+1351 roll
+1352 face 4
+1353 face 6
+1354 face 1
+1355 face 3
+1356 face 2
+1357 face 2
+1358 face 1
+1359 face 4
+1360 face 4
+1361 face 2
+1370 rolled 2 next 4
+1371 roll
+1372 face 5
+1373 face 2
+1374 face 4
+1375 face 4
+1376 face 4
+1377 face 3
+1378 face 4
+1379 face 5
+1380 face 3
+1381 face 1
+1390 rolled 1 move
+1391 place 4 31 4
+1393 roll
+1394 face 4
+1395 face 1
+1396 face 2
+1397 face 4
+1398 face 3
+1399 face 1
+1400 face 4
+1401 face 4
+1402 face 2
+1403 face 4
+1412 rolled 4 next 1
+1413 roll
+1414 face 5
+1415 face 5
+1416 face 4
+1417 face 2
+1418 face 3
+1419 face 2
+1420 face 1
+1421 face 1
+1422 face 3
+1423 face 2
+1432 rolled 2 move
+1433 move 1 7
+1434 step 8
+1435 step 9
+1436 moved 2
+1437 roll
+1438 face 3
+1439 face 5
+1440 face 2
+1441 face 2
+1442 face 4
+1443 face 3
+1444 face 3
+1445 face 2
+1446 face 4
+1447 face 6
+1456 rolled 6 move
+1457 place 2 11 2
+1459 roll
+1460 face 5
+1461 face 1
+1462 face 2
+1463 face 5
+1464 face 2
+1465 face 4
+1466 face 1
+1467 face 5
+1468 face 2
+1469 face 5
+1478 rolled 5 move
+1479 move 2 23
+1480 step 24
+1481 step 25
+1482 step 26
+1483 step 27
+1484 step 28
+1485 moved 3
+1486 roll
+1487 face 4
+1488 face 5
+1489 face 5
+1490 face 6
+1491 face 1
+1492 face 6
+1493 face 1
+1494 face 5
+1495 face 6
+1496 face 1
+1505 rolled 1 move
+1506 place 3 21 3
+1508 roll
+1509 face 6
+1510 face 2
+1511 face 3
+1512 face 1
+1513 face 4
+1514 face 1
+1515 face 2
+1516 face 2
+1517 face 4
+1518 face 1
+1527 rolled 1 move
+1528 move 3 21
+1529 step 22
+1530 moved 3
+1531 roll
+1532 face 6
+1533 face 6
+1534 face 3
+1535 face 2
+1536 face 5
+1537 face 3
+1538 face 6
+1539 face 2
+1540 face 6
+1541 face 1
+1550 rolled 1 move
+1551 place 3 21 3
+1553 roll
+1554 face 4
+1555 face 2
+1556 face 5
+1557 face 1
+1558 face 1
+1559 face 6
+1560 face 1
+1561 face 2
+1562 face 4
+1563 face 6
+1572 rolled 6 move
+1573 move 3 21
+1574 step 22
+1575 step 23
+1576 step 24
+1577 step 25
+1578 step 26
+1579 step 27
+1580 moved 3
+1581 roll
+1582 face 3
+1583 face 1
+1584 face 3
+1585 face 4
+1586 face 3
+1587 face 5
+1588 face 6
+1589 face 4
+1590 face 4
+1591 face 6
+1600 rolled 6 move
+1601 place 3 21 3
+1603 roll
+1604 face 3
+1605 face 3
+1606 face 4
+1607 face 5
+1608 face 3
+1609 face 1
+1610 face 5
+1611 face 6
+1612 face 6
+1613 face 2
+1622 rolled 2 move
+1623 move 3 22
+1624 step 23
+1625 step 24
+1626 moved 4
+1627 roll
+1628 face 4
+1629 face 3
+1630 face 4
+1631 face 1
+1632 face 6
+1633 face 4
+1634 face 3
+1635 face 1
+1636 face 1
+1637 face 6
+1646 rolled 6 move
+1647 move 4 31
+1648 step 32
+1649 step 33
+1650 step 34
+1651 step 35
+1652 step 36
+1653 step 37
+1654 moved 4
+1655 roll
+1656 face 5
+1657 face 6
+1658 face 4
+1659 face 6
+1660 face 3
+1661 face 6
+1662 face 1
+1663 face 3
+1664 face 1
+1665 face 2
+1674 rolled 2 move
+1675 move 4 37
+1676 step 38
+1677 step 39
+1678 moved 1
+1679 roll
+1680 face 2
+1681 face 5
+1682 face 4
+1683 face 3
+1684 face 1
+1685 face 6
+1686 face 3
+1687 face 6
+1688 face 6
+1689 face 2
+1698 rolled 2 move
+1699 move 1 9
+1700 step 10
+1701 step 11
+1702 moved 2
+1703 roll
+1704 face 4
+1705 face 2
+1706 face 6
+1707 face 4
+1708 face 4
+1709 face 6
+1710 face 6
+1711 face 1
+1712 face 3
+1713 face 4
+1722 rolled 4 move
+1723 move 2 35
+1724 step 36
+1725 step 37
+1726 step 38
+1727 step 39
+1728 moved 3
+1729 roll
+1730 face 3
+1731 face 1
+1732 face 2
+1733 face 2
+1734 face 5
+1735 face 6
+1736 face 2
+1737 face 3
+1738 face 1
+1739 face 2
+1748 rolled 2 move
+1749 move 3 34
+1750 step 35
+1751 step 36
+1752 moved 4
+1753 roll
+1754 face 2
+1755 face 2
+1756 face 6
+1757 face 4
+1758 face 1
+1759 face 5
+1760 face 1
+1761 face 1
+1762 face 1
+1763 face 6
+1772 rolled 6 move
+1773 place 4 31 4
+1775 roll
+1776 face 3
+1777 face 6
+1778 face 1
+1779 face 5
+1780 face 3
+1781 face 3
+1782 face 6
+1783 face 1
+1784 face 5
+1785 face 4
+1794 rolled 4 move
+1795 move 4 31
+1796 step 32
+1797 step 33
+1798 step 34
+1799 step 35
+1800 moved 1
+1801 roll
+1802 face 2
+1803 face 6
+1804 face 5
+1805 face 6
+1806 face 5
+1807 face 5
+1808 face 3
+1809 face 3
+1810 face 3
+1811 face 4
+1820 rolled 4 move
+1821 move 1 11
+1822 step 12
+1823 step 13
+1824 step 14
+1825 step 15
+1826 moved 2
+1827 roll
+1828 face 2
+1829 face 2
+1830 face 2
+1831 face 5
+1832 face 5
+1833 face 2
+1834 face 6
+1835 face 1
+1836 face 5
+1837 face 3
+1846 rolled 3 move
+1847 move 2 39
+1848 step 40
+1849 step 1
+1850 step 2
+1851 moved 3
+1852 roll
+1853 face 5
+1854 face 2
+1855 face 2
+1856 face 6
+1857 face 5
+1858 face 3
+1859 face 5
+1860 face 1
+1861 face 5
+1862 face 5
+1871 rolled 5 move
+1872 move 3 36
+1873 step 37
+1874 step 38
+1875 step 39
+1876 step 40
+1877 step 1
+1878 moved 4
+1879 roll
+1880 face 5
+1881 face 2
+1882 face 6
+1883 face 3
+1884 face 3
+1885 face 3
+1886 face 5
+1887 face 3
+1888 face 5
+1889 face 3
+1898 rolled 3 move
+1899 move 4 35
+1900 step 36
+1901 step 37
+1902 step 38
+1903 moved 1
+1904 roll
+1905 face 5
+1906 face 5
+1907 face 4
+1908 face 1
+1909 face 6
+1910 face 3
+1911 face 3
+1912 face 6
+1913 face 2
+1914 face 3
+1923 rolled 3 move
+1924 move 1 25
+1925 step 26
+1926 step 27
+1927 step 28
+1928 moved 2
+1929 roll
+1930 face 2
+1931 face 3
+1932 face 3
+1933 face 1
+1934 face 5
+1935 face 2
+1936 face 2
+1937 face 1
+1938 face 3
+1939 face 6
+1948 rolled 6 move
+1949 place 2 11 2
+1951 roll
+1952 face 6
+1953 face 4
+1954 face 3
+1955 face 5
+1956 face 6
+1957 face 3
+1958 face 3
+1959 face 6
+1960 face 6
+1961 face 3
+1970 rolled 3 move
+1971 move 2 11
+1972 step 12
+1973 step 13
+1974 step 14
+1975 moved 3
+1976 roll
+1977 face 5
+1978 face 2
+1979 face 2
+1980 face 3
+1981 face 1
+1982 face 1
+1983 face 2
+1984 face 6
+1985 face 4
+1986 face 5
+1995 rolled 5 move
+1996 move 3 21
+1997 step 22
+1998 step 23
+1999 step 24
+2000 step 25
+2001 step 26
+2002 moved 4
+2003 roll
+2004 face 6
+2005 face 5
+2006 face 5
+2007 face 1
+2008 face 1
+2009 face 1
+2010 face 3
+2011 face 6
+2012 face 4
+2013 face 2
+2022 rolled 2 move
+2023 move 4 38
+2024 step 39
+2025 step 40
+2026 moved 1
+2027 roll
+2028 face 5
+2029 face 6
+2030 face 5
+2031 face 4
+2032 face 6
+2033 face 2
+2034 face 5
+2035 face 2
+2036 face 3
+2037 face 6
+2046 rolled 6 move
+2047 place 1 1 1
+2049 roll
+2050 face 4
+2051 face 2
+2052 face 3
+2053 face 6
+2054 face 1
+2055 face 1
+2056 face 6
+2057 face 3
+2058 face 5
+2059 face 2
+2068 rolled 2 move
+2069 move 1 28
+2070 step 29
+2071 step 30
+2072 moved 2
+2073 roll
+2074 face 3
+2075 face 6
+2076 face 3
+2077 face 5
+2078 face 2
+2079 face 4
+2080 face 5
+2081 face 3
+2082 face 5
+2083 face 3
+2092 rolled 3 move
+2093 move 2 14
+2094 step 15
+2095 step 16
+2096 step 17
+2097 moved 3
+2098 roll
+2099 face 6
+2100 face 5
+2101 face 5
+2102 face 6
+2103 face 2
+2104 face 6
+2105 face 3
+2106 face 3
+2107 face 3
+2108 face 3
+2117 rolled 3 move
+2118 move 3 27
+2119 step 28
+2120 step 29
+2121 step 30
+2122 moved 4
+2123 roll
+2124 face 1
+2125 face 4
+2126 face 3
+2127 face 6
+2128 face 3
+2129 face 4
+2130 face 5
+2131 face 2
+2132 face 6
+2133 face 5
+2142 rolled 5 next 1
+2143 roll
+2144 face 3
+2145 face 5
+2146 face 2
+2147 face 1
+2148 face 4
+2149 face 3
+2150 face 5
+2151 face 5
+2152 face 2
+2153 face 1
+2162 rolled 1 move
+2163 move 1 1
+2164 step 2
+2165 moved 1
+2166 roll
+2167 face 5
+2168 face 1
+2169 face 1
+2170 face 2
+2171 face 3
+2172 face 6
+2173 face 1
+2174 face 6
+2175 face 4
+2176 face 2
+2185 rolled 2 move
+2186 move 1 15
+2187 step 16
+2188 step 17
+2189 moved 2
+2190 roll
+2191 face 4
+2192 face 1
+2193 face 3
+2194 face 1
+2195 face 3
+2196 face 4
+2197 face 1
+2198 face 2
+2199 face 6
+2200 face 1
+2209 rolled 1 move
+2210 place 2 11 2
+2212 roll
+2213 face 4
+2214 face 1
+2215 face 5
+2216 face 1
+2217 face 1
+2218 face 4
+2219 face 4
+2220 face 4
+2221 face 1
+2222 face 5
+2231 rolled 5 move
+2232 move 2 11
+2233 step 12
+2234 step 13
+2235 step 14
+2236 step 15
+2237 step 16
+2238 moved 3
+2239 roll
+2240 face 4
+2241 face 4
+2242 face 2
+2243 face 2
+2244 face 1
+2245 face 3
+2246 face 5
+2247 face 6
+2248 face 4
+2249 face 4
+2258 rolled 4 move
+2259 move 3 24
+2260 step 25
+2261 step 26
+2262 step 27
+2263 step 28
+2264 moved 4
+2265 roll
+2266 face 2
+2267 face 4
+2268 face 6
+2269 face 6
+2270 face 3
+2271 face 2
+2272 face 2
+2273 face 2
+2274 face 1
+2275 face 2
+2284 rolled 2 move
+2285 move 4 40
+2286 step 1
+2287 step 2
+2288 moved 1
+2289 roll
+2290 face 3
+2291 face 2
+2292 face 2
+2293 face 2
+2294 face 4
+2295 face 1
+2296 face 6
+2297 face 3
+2298 face 6
+2299 face 2
+2308 rolled 2 move
+2309 move 1 17
+2310 step 18
+2311 step 19
+2312 moved 2
+2313 roll
+2314 face 1
+2315 face 5
+2316 face 4
+2317 face 4
+2318 face 1
+2319 face 1
+2320 face 1
+2321 face 1
+2322 face 4
+2323 face 1
+2332 rolled 1 move
+2333 place 2 11 2
+2335 roll
+2336 face 3
+2337 face 4
+2338 face 1
+2339 face 3
+2340 face 3
+2341 face 2
+2342 face 1
+2343 face 4
+2344 face 1
+2345 face 5
+2354 rolled 5 move
+2355 move 2 16
+2356 step 17
+2357 step 18
+2358 step 19
+2359 step 20
+2360 step 21
+2361 moved 3
+2362 roll
+2363 face 2
+2364 face 3
+2365 face 1
+2366 face 3
+2367 face 2
+2368 face 3
+2369 face 3
+2370 face 5
+2371 face 3
+2372 face 2
+2381 rolled 2 move
+2382 move 3 30
+2383 step 31
+2384 step 32
+2385 moved 4
+2386 roll
+2387 face 5
+2388 face 2
+2389 face 2
+2390 face 1
+2391 face 5
+2392 face 2
+2393 face 6
+2394 face 1
+2395 face 3
+2396 face 6
+2405 rolled 6 move
+2406 place 4 31 4
+2408 roll
+2409 face 5
+2410 face 2
+2411 face 2
+2412 face 4
+2413 face 1
+2414 face 5
+2415 face 6
+2416 face 4
+2417 face 4
+2418 face 1
+2427 rolled 1 move
+2428 move 4 31
+2429 step 32
+2430 moved 4
+2431 roll
+2432 face 2
+2433 face 6
+2434 face 6
+2435 face 4
+2436 face 2
+2437 face 5
+2438 face 1
+2439 face 4
+2440 face 6
+2441 face 4
+2450 rolled 4 move
+2451 move 4 32
+2452 step 33
+2453 step 34
+2454 step 35
+2455 step 36
+2456 moved 1
+2457 roll
+2458 face 6
+2459 face 2
+2460 face 1
+2461 face 6
+2462 face 3
+2463 face 4
+2464 face 1
+2465 face 5
+2466 face 6
+2467 face 4
+2476 rolled 4 move
+2477 move 1 19
+2478 step 20
+2479 step 21
+2480 step 22
+2481 step 23
+2482 moved 2
+2483 roll
+2484 face 5
+2485 face 6
+2486 face 5
+2487 face 5
+2488 face 1
+2489 face 4
+2490 face 6
+2491 face 3
+2492 face 2
+2493 face 2
+2502 rolled 2 move
+2503 move 2 11
+2504 step 12
+2505 step 13
+2506 moved 3
+2507 roll
+2508 face 1
+2509 face 3
+2510 face 6
+2511 face 6
+2512 face 4
+2513 face 6
+2514 face 3
+2515 face 1
+2516 face 2
+2517 face 4
+2526 rolled 4 move
+2527 move 3 28
+2528 step 29
+2529 step 30
+2530 step 31
+2531 step 32
+2532 moved 4
+2533 roll
+2534 face 2
+2535 face 2
+2536 face 1
+2537 face 3
+2538 face 4
+2539 face 4
+2540 face 2
+2541 face 2
+2542 face 1
+2543 face 5
+2552 rolled 5 move
+2553 move 4 2
+2554 step 3
+2555 step 4
+2556 step 5
+2557 step 6
+2558 step 7
+2559 moved 1
+2560 roll
+2561 face 5
+2562 face 2
+2563 face 5
+2564 face 4
+2565 face 4
+2566 face 1
+2567 face 5
+2568 face 4
+2569 face 2
+2570 face 3
+2579 rolled 3 move
+2580 move 1 23
+2581 step 24
+2582 step 25
+2583 step 26
+2584 moved 2
+2585 roll
+2586 face 3
+2587 face 1
+2588 face 2
+2589 face 2
+2590 face 2
+2591 face 1
+2592 face 3
+2593 face 4
+2594 face 1
+2595 face 6
+2604 rolled 6 move
+2605 place 2 11 2
+2607 roll
+2608 face 3
+2609 face 2
+2610 face 2
+2611 face 4
+2612 face 5
+2613 face 2
+2614 face 5
+2615 face 6
+2616 face 3
+2617 face 6
+2626 rolled 6 move
+2627 move 2 21
+2628 step 22
+2629 step 23
+2630 step 24
+2631 step 25
+2632 step 26
+2633 step 27
+2634 moved 2
+2635 roll
+2636 face 4
+2637 face 5
+2638 face 1
+2639 face 5
+2640 face 4
+2641 face 6
+2642 face 1
+2643 face 2
+2644 face 4
+2645 face 5
+2654 rolled 5 move
+2655 move 2 27
+2656 step 28
+2657 step 29
+2658 step 30
+2659 step 31
+2660 step 32
+2661 moved 3
+2662 roll
+2663 face 1
+2664 face 4
+2665 face 3
+2666 face 1
+2667 face 6
+2668 face 6
+2669 face 2
+2670 face 2
+2671 face 2
+2672 face 1
+2681 rolled 1 move
+2682 place 3 21 3
+2684 roll
+2685 face 2
+2686 face 5
+2687 face 1
+2688 face 2
+2689 face 2
+2690 face 6
+2691 face 2
+2692 face 1
+2693 face 4
+2694 face 3
+2703 rolled 3 move
+2704 move 3 21
+2705 step 22
+2706 step 23
+2707 step 24
+2708 moved 4
+2709 roll
+2710 face 1
+2711 face 2
+2712 face 1
+2713 face 6
+2714 face 2
+2715 face 2
+2716 face 2
+2717 face 4
+2718 face 2
+2719 face 3
+2728 rolled 3 move
+2729 move 4 7
+2730 step 8
+2731 step 9
+2732 step 10
+2733 moved 1
+2734 roll
+2735 face 4
+2736 face 2
+2737 face 1
+2738 face 5
+2739 face 1
+2740 face 1
+2741 face 5
+2742 face 1
+2743 face 1
+2744 face 2
+2753 rolled 2 move
+2754 move 1 26
+2755 step 27
+2756 step 28
+2757 moved 2
+2758 roll
+2759 face 1
+2760 face 3
+2761 face 6
+2762 face 1
+2763 face 3
+2764 face 6
+2765 face 3
+2766 face 3
+2767 face 2
+2768 face 3
+2777 rolled 3 move
+2778 move 2 32
+2779 step 33
+2780 step 34
+2781 step 35
+2782 moved 3
+2783 roll
+2784 face 5
+2785 face 3
+2786 face 1
+2787 face 6
+2788 face 1
+2789 face 5
+2790 face 3
+2791 face 3
+2792 face 3
+2793 face 4
+2802 rolled 4 move
+2803 move 3 24
+2804 step 25
+2805 step 26
+2806 step 27
+2807 step 28
+2808 moved 4
+2809 roll
+2810 face 2
+2811 face 4
+2812 face 6
+2813 face 5
+2814 face 4
+2815 face 4
+2816 face 4
+2817 face 4
+2818 face 3
+2819 face 5
+2828 rolled 5 move
+2829 move 4 36
+2830 step 37
+2831 step 38
+2832 step 39
+2833 step 40
+2834 step 1
+2835 moved 1
+2836 roll
+2837 face 5
+2838 face 2
+2839 face 4
+2840 face 6
+2841 face 2
+2842 face 5
+2843 face 1
+2844 face 6
+2845 face 2
+2846 face 6
+2855 rolled 6 move
+2856 place 1 1 1
+2858 roll
+2859 face 3
+2860 face 2
+2861 face 6
+2862 face 5
+2863 face 4
+2864 face 1
+2865 face 6
+2866 face 4
+2867 face 5
+2868 face 6
+2877 rolled 6 move
+2878 move 1 1
+2879 step 2
+2880 step 3
+2881 step 4
+2882 step 5
+2883 step 6
+2884 step 7
+2885 moved 1
+2886 roll
+2887 face 1
+2888 face 5
+2889 face 2
+2890 face 5
+2891 face 4
+2892 face 1
+2893 face 2
+2894 face 3
+2895 face 2
+2896 face 2
+2905 rolled 2 move
+2906 move 1 7
+2907 step 8
+2908 step 9
+2909 moved 2
+2910 roll
+2911 face 3
+2912 face 2
+2913 face 2
+2914 face 5
+2915 face 6
+2916 face 5
+2917 face 5
+2918 face 2
+2919 face 6
+2920 face 4
+2929 rolled 4 move
+2930 move 2 11
+2931 step 12
+2932 step 13
+2933 step 14
+2934 step 15
+2935 moved 3
+2936 roll
+2937 face 6
+2938 face 3
+2939 face 2
+2940 face 1
+2941 face 1
+2942 face 5
+2943 face 5
+2944 face 3
+2945 face 4
+2946 face 4
+2955 rolled 4 move
+2956 move 3 28
+2957 step 29
+2958 step 30
+2959 step 31
+2960 step 32
+2961 moved 4
+2962 roll
+2963 face 2
+2964 face 4
+2965 face 6
+2966 face 6
+2967 face 2
+2968 face 3
+2969 face 6
+2970 face 1
+2971 face 6
+2972 face 2
+2981 rolled 2 move
+2982 move 4 10
+2983 step 11
+2984 step 12
+2985 moved 1
+2986 roll
+2987 face 4
+2988 face 2
+2989 face 2
+2990 face 3
+2991 face 3
+2992 face 4
+2993 face 5
+2994 face 1
+2995 face 1
+2996 face 1
+3005 rolled 1 move
+3006 place 1 1 1
+3008 roll
+3009 face 1
+3010 face 1
+3011 face 5
+3012 face 3
+3013 face 2
+3014 face 2
+3015 face 2
+3016 face 1
+3017 face 4
+3018 face 1
+3027 rolled 1 move
+3028 move 1 1
+3029 step 2
+3030 moved 1
+3031 roll
+3032 face 5
+3033 face 3
+3034 face 3
+3035 face 3
+3036 face 1
+3037 face 6
+3038 face 5
+3039 face 4
+3040 face 1
+3041 face 4
+3050 rolled 4 move
+3051 move 1 9
+3052 step 10
+3053 step 11
+3054 step 12
+3055 step 13
+3056 moved 2
+3057 roll
+3058 face 5
+3059 face 3
+3060 face 3
+3061 face 4
+3062 face 1
+3063 face 5
+3064 face 2
+3065 face 4
+3066 face 6
+3067 face 6
+3076 rolled 6 move
+3077 place 2 11 2
+3079 roll
+3080 face 6
+3081 face 1
+3082 face 5
+3083 face 3
+3084 face 5
+3085 face 6
+3086 face 3
+3087 face 4
+3088 face 1
+3089 face 2
+3098 rolled 2 move
+3099 move 2 11
+3100 step 12
+3101 step 13
+3102 moved 3
+3103 roll
+3104 face 4
+3105 face 2
+3106 face 2
+3107 face 6
+3108 face 6
+3109 face 4
+3110 face 3
+3111 face 5
+3112 face 1
+3113 face 3
+3122 rolled 3 next 4
+3123 roll
+3124 face 6
+3125 face 6
+3126 face 4
+3127 face 3
+3128 face 4
+3129 face 3
+3130 face 3
+3131 face 2
+3132 face 3
+3133 face 1
+3142 rolled 1 move
+3143 place 4 31 4
+3145 roll
+3146 face 5
+3147 face 3
+3148 face 4
+3149 face 5
+3150 face 6
+3151 face 6
+3152 face 2
+3153 face 6
+3154 face 4
+3155 face 4
+3164 rolled 4 next 1
+3165 roll
+3166 face 5
+3167 face 6
+3168 face 1
+3169 face 6
+3170 face 2
+3171 face 3
+3172 face 6
+3173 face 1
+3174 face 6
+3175 face 2
+3184 rolled 2 move
+3185 move 1 2
+3186 step 3
+3187 step 4
+3188 moved 2
+3189 roll
+3190 face 5
+3191 face 5
+3192 face 4
+3193 face 1
+3194 face 6
+3195 face 5
+3196 face 2
+3197 face 6
+3198 face 3
+3199 face 4
+3208 rolled 4 move
+3209 move 2 13
+3210 step 14
+3211 step 15
+3212 step 16
+3213 step 17
+3214 moved 3
+3215 roll
+3216 face 1
+3217 face 5
+3218 face 4
+3219 face 6
+3220 face 2
+3221 face 5
+3222 face 5
+3223 face 6
+3224 face 2
+3225 face 4
+3234 rolled 4 move
+3235 move 3 32
+3236 step 33
+3237 step 34
+3238 step 35
+3239 step 36
+3240 moved 4
+3241 roll
+3242 face 6
+3243 face 4
+3244 face 2
+3245 face 5
+3246 face 5
+3247 face 1
+3248 face 1
+3249 face 1
+3250 face 1
+3251 face 5
+3260 rolled 5 move
+3261 move 4 31
+3262 step 32
+3263 step 33
+3264 step 34
+3265 step 35
+3266 step 36
+3267 moved 1
+3268 roll
+3269 face 3
+3270 face 3
+3271 face 2
+3272 face 4
+3273 face 2
+3274 face 1
+3275 face 3
+3276 face 2
+3277 face 6
+3278 face 1
+3287 rolled 1 move
+3288 place 1 1 1
+3290 roll
+3291 face 5
+3292 face 3
+3293 face 3
+3294 face 1
+3295 face 4
+3296 face 1
+3297 face 2
+3298 face 1
+3299 face 6
+3300 face 5
+3309 rolled 5 move
+3310 move 1 1
+3311 step 2
+3312 step 3
+3313 step 4
+3314 step 5
+3315 step 6
+3316 moved 2
+3317 roll
+3318 face 5
+3319 face 1
+3320 face 5
+3321 face 2
+3322 face 2
+3323 face 2
+3324 face 4
+3325 face 3
+3326 face 6
+3327 face 6
+3336 rolled 6 move
+3337 place 2 11 2
+3339 roll
+3340 face 6
+3341 face 5
+3342 face 4
+3343 face 2
+3344 face 2
+3345 face 4
+3346 face 3
+3347 face 5
+3348 face 2
+3349 face 6
+3358 rolled 6 move
+3359 move 2 17
+3360 step 18
+3361 step 19
+3362 step 20
+3363 step 21
+3364 step 22
+3365 step 23
+3366 moved 2
+3367 roll
+3368 face 6
+3369 face 2
+3370 face 6
+3371 face 1
+3372 face 3
+3373 face 3
+3374 face 4
+3375 face 1
+3376 face 3
+3377 face 1
+3386 rolled 1 move
+3387 move 2 11
+3388 step 12
+3389 moved 2
+3390 roll
+3391 face 4
+3392 face 5
+3393 face 5
+3394 face 6
+3395 face 5
+3396 face 1
+3397 face 2
+3398 face 1
+3399 face 6
+3400 face 4
+3409 rolled 4 move
+3410 move 2 23
+3411 step 24
+3412 step 25
+3413 step 26
+3414 step 27
+3415 moved 3
+3416 roll
+3417 face 6
+3418 face 3
+3419 face 5
+3420 face 6
+3421 face 5
+3422 face 3
+3423 face 3
+3424 face 2
+3425 face 2
+3426 face 3
+3435 rolled 3 next 3
+3436 roll
+3437 face 4
+3438 face 4
+3439 face 2
+3440 face 3
+3441 face 5
+3442 face 4
+3443 face 5
+3444 face 1
+3445 face 3
+3446 face 1
+3455 rolled 1 move
+3456 place 3 21 3
+3458 roll
+3459 face 4
+3460 face 5
+3461 face 3
+3462 face 5
+3463 face 2
+3464 face 1
+3465 face 1
+3466 face 1
+3467 face 3
+3468 face 2
+3477 rolled 2 move
+3478 move 3 21
+3479 step 22
+3480 step 23
+3481 moved 4
+3482 roll
+3483 face 5
+3484 face 4
+3485 face 6
+3486 face 2
+3487 face 6
+3488 face 6
+3489 face 4
+3490 face 2
+3491 face 3
+3492 face 2
+3501 rolled 2 move
+3502 move 4 36
+3503 step 37
+3504 step 38
+3505 moved 1
+3506 roll
+3507 face 6
+3508 face 2
+3509 face 2
+3510 face 4
+3511 face 4
+3512 face 4
+3513 face 5
+3514 face 2
+3515 face 6
+3516 face 4
+3525 rolled 4 move
+3526 move 1 6
+3527 step 7
+3528 step 8
+3529 step 9
+3530 step 10
+3531 moved 2
+3532 roll
+3533 face 5
+3534 face 5
+3535 face 6
+3536 face 4
+3537 face 5
+3538 face 5
+3539 face 1
+3540 face 4
+3541 face 6
+3542 face 3
+3551 rolled 3 move
+3552 move 2 35
+3553 step 36
+3554 step 37
+3555 step 38
+3556 moved 3
+3557 roll
+3558 face 3
+3559 face 5
+3560 face 3
+3561 face 3
+3562 face 4
+3563 face 4
+3564 face 2
+3565 face 1
+3566 face 1
+3567 face 5
+3576 rolled 5 move
+3577 move 3 23
+3578 step 24
+3579 step 25
+3580 step 26
+3581 step 27
+3582 step 28
+3583 moved 4
+3584 roll
+3585 face 3
+3586 face 6
+3587 face 2
+3588 face 2
+3589 face 2
+3590 face 1
+3591 face 3
+3592 face 3
+3593 face 6
+3594 face 2
+3603 rolled 2 next 4

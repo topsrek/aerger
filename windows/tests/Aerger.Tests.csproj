@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup><Compile Include="../src/Aerger/Game.cs" Link="Game.cs" /><Compile Include="../src/Aerger/OriginalSave.cs" Link="OriginalSave.cs" />
+    <Compile Include="../src/Aerger/ComputerStrategy.cs" Link="ComputerStrategy.cs" />
+    <Compile Include="../src/Aerger/OriginalMoveCheck.cs" Link="OriginalMoveCheck.cs" />
+    <Compile Include="../src/Aerger/PlayerPanelLayout.cs" Link="PlayerPanelLayout.cs" />
+    <Compile Include="../src/Aerger/WindowSizing.cs" Link="WindowSizing.cs" />
+    <Compile Include="../src/Aerger/SettingsFile.cs" Link="SettingsFile.cs" />
+    <Compile Include="../src/Aerger/BoardLayout.cs" Link="BoardLayout.cs" />
+    <Compile Include="../src/Aerger/OriginalBoard.g.cs" Link="OriginalBoard.g.cs" />
+    <Compile Include="../src/Aerger/OriginalRandom.cs" Link="OriginalRandom.cs" />
+    <Content Include="../../original/BEISPIEL.ERG" Link="BEISPIEL.ERG" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../../original/AERGER.CFG" Link="AERGER.CFG" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

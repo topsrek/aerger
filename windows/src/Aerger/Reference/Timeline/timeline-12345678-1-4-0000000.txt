@@ -1,0 +1,166 @@
+# AERGER.EXE timeline: seed 0x12345678, speed 1, 4 computer players, 12 rolls, rules 0000000
+601 roll
+602 face 3
+627 face 6
+652 face 6
+677 face 6
+702 face 6
+727 face 4
+752 face 5
+777 face 3
+802 face 6
+827 face 5
+1052 rolled 5 next 1
+1553 roll
+1554 face 1
+1579 face 4
+1604 face 3
+1629 face 6
+1654 face 1
+1679 face 1
+1704 face 2
+1729 face 3
+1754 face 2
+1779 face 3
+2004 rolled 3 next 1
+2505 roll
+2506 face 5
+2531 face 4
+2556 face 3
+2581 face 2
+2606 face 5
+2631 face 4
+2656 face 2
+2681 face 3
+2706 face 1
+2731 face 1
+2956 rolled 1 next 2
+3557 roll
+3558 face 5
+3583 face 4
+3608 face 4
+3633 face 6
+3658 face 4
+3683 face 6
+3708 face 3
+3733 face 1
+3758 face 2
+3783 face 6
+4008 rolled 6 move
+4609 place 2 11 2
+5211 roll
+5212 face 4
+5237 face 5
+5262 face 3
+5287 face 1
+5312 face 6
+5337 face 6
+5362 face 4
+5387 face 5
+5412 face 4
+5437 face 4
+5662 rolled 4 move
+6263 move 2 11
+6264 step 12
+6464 step 13
+6664 step 14
+6864 step 15
+7064 moved 3
+7665 roll
+7666 face 1
+7691 face 2
+7716 face 5
+7741 face 5
+7766 face 2
+7791 face 4
+7816 face 5
+7841 face 3
+7866 face 5
+7891 face 2
+8116 rolled 2 next 3
+8617 roll
+8618 face 5
+8643 face 4
+8668 face 6
+8693 face 4
+8718 face 5
+8743 face 3
+8768 face 1
+8793 face 1
+8818 face 2
+8843 face 6
+9068 rolled 6 move
+9669 place 3 21 3
+10271 roll
+10272 face 2
+10297 face 2
+10322 face 2
+10347 face 1
+10372 face 3
+10397 face 2
+10422 face 6
+10447 face 6
+10472 face 1
+10497 face 6
+10722 rolled 6 move
+11323 move 3 21
+11324 step 22
+11524 step 23
+11724 step 24
+11924 step 25
+12124 step 26
+12324 step 27
+12524 moved 3
+13125 roll
+13126 face 1
+13151 face 5
+13176 face 2
+13201 face 4
+13226 face 3
+13251 face 1
+13276 face 6
+13301 face 6
+13326 face 6
+13351 face 6
+13576 rolled 6 move
+14177 place 3 21 3
+14779 roll
+14780 face 1
+14805 face 5
+14830 face 1
+14855 face 2
+14880 face 2
+14905 face 2
+14930 face 3
+14955 face 4
+14980 face 6
+15005 face 2
+15230 rolled 2 move
+15831 move 3 21
+15832 step 22
+16032 step 23
+16232 moved 4
+16833 roll
+16834 face 6
+16859 face 5
+16884 face 6
+16909 face 1
+16934 face 4
+16959 face 5
+16984 face 2
+17009 face 6
+17034 face 4
+17059 face 1
+17284 rolled 1 next 4
+17785 roll
+17786 face 4
+17811 face 4
+17836 face 1
+17861 face 2
+17886 face 2
+17911 face 5
+17936 face 1
+17961 face 2
+17986 face 4
+18011 face 5
+18236 rolled 5 next 4

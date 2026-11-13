@@ -1,0 +1,318 @@
+$ #KMensch ärgere Dich nicht! - Inhalt
+
+Copyright & HaftungCopyright
+Dieses Spiel ist SharewareShareware.
+SystemvoraussetzungenSystemvoraussetzungen
+Allgemeine SpielregelnSpielregeln
+Maus- und TastaturbedienungXL.UV
+InteressantesInteressantes
+
+Datei
+ Spielstand speichernSpielstand_speichern
+ Spielstand ladenSpielstand_laden
+ Einstellungen speichernEinstellungen_speichern
+ BeendenBeenden
+
+Spiel
+ Spiel neu / BeendenSpiel_Neuende
+ GewinnerGewinner
+ SpielerSpieler
+ SpielbrettSpielbrett
+ Einstellbare SpielregelnEinstellbareSpielregeln
+
+Optionen
+ SoundSound
+ GeschwindigkeitGeschwindigkeit
+ Fenstergröße4J90_OD
+$#KMensch ärgere Dich nicht!   für Windows,  Version 1  (1995)
+
+(C)opyright by Oliver Kraheck
+Spielidee & Gestaltung: (C)opyright Schmidt Spiel+Freizeit GmbH, Eching
+Erstellt mit (C) Borland Pascal 7
+
+Dies ist die SharewareversionShareware des Spieles.
+Wenn Ihnen das Spiel gefällt, müssen Sie sich registrierenRegistrierung lassen.
+
+Gerne dürfen Sie diese Testversion kopieren und weitergeben, an wen immer Sie möchten!
+
+Dieses Programm wurde vom Autor nach allen verfügbaren Möglichkeiten auf Fehler, Inkompatibilitäten und Viren hin überprüft und für makellos befunden.
+Dennoch wird für Schäden jeder Art, die mittelbar oder unmittelbar durch dieses Programm verursacht werden oder wurden, vom Autor jede Haftung abgelehnt.
+$#KShareware
+
+Was ist Shareware?
+
+Es ist ein Vertriebsweg für Software, der sehr freundlich zu Anwender und Programmierer ist.
+Der Anwender erhält zunächst eine Prüfversion (Testversion, Sharewareversion), die frei kopiert / weitergegeben werden darf und die Gelegenheit bietet, das Programm ausführlich zu testen.
+Wenn eine Testversion dem Anwender gefällt, dann läßt er sich direkt beim Autor registrieren, d.h. er kauft erst jetzt das eigentliche Programm und erhält die Vollversion.
+Gewöhnlich enthält die Testversion einige Einschränkungen, auf jeden Fall aber Hinweise auf die Tatsache, daß es eben eine Prüfversion ist und man sich bei regelmäßiger Nutzung registrieren lassen muß.
+Mensch ärgere Dich nicht! enthält keinerlei Einschränkungen, so daß SIE sehr genau wissen, was Sie kaufen...
+Der Vorteil des Programmierers besteht bei dem Sharewarekonzept darin, daß der Anwender direkt bei ihm bestellt und jegliche Provisionen für Händler entfallen. Außerdem verbreitet sich die Testversion fast von selbst durch die vielen Sharewarehändler, die nur solche Sharewareversionen vertreiben, so daß keine aufwendige Werbung nötig ist - das Produkt wirbt für sich selbst!
+Der Vorteil des Anwenders (Spielers...) liegt auf der Hand: Er weiß genau, was er kauft, denn er kann das Produkt mit der Prüfversion eingehend testen.
+
+Jetzt wissen Sie, was Shareware ist und warum immer diese Hinweise erscheinen.
+Die Registrierung von Mensch ärgere Dich nicht!Registrierung können Sie auch direkt aus dem Hinweisfenster heraus erledigen.
+$#KRegistrierung
+
+Die Registriergebühr beträgt DM 30,-. Und wofür?
+
+Als registrierter Benutzer erhalten Sie:
+- Die aktuelle Vollversion ohne die Sharewarehinweise.
+- Das Anrecht auf ein kostenloses Update.
+- Eine Nachricht bei Erscheinen eines Updates / neuen Programms.
+- Ein ruhiges Gewissen.
+
+
+Wenn Sie einen Drucker haben:
+Klicken Sie im Shareware-Hinweisfenster auf "JA", um zum Formular zu gelangen.
+Jetzt tragen Sie Ihre Adresse und die anderen Angaben ein, schalten den Drucker auf Bereitschaft und starten den Druck.
+Auf dem ausgedruckten Formular unterschreiben Sie, stecken es (evtl. mit Geld/Scheck) in einen Umschlag, Briefmarke drauf und ab in den Briefkasten.
+Das Formular läßt sich leicht so falten, daß die Adresse in einem Fensterumschlag an der richtigen Stelle erscheint.
+
+Wenn Sie keinen Drucker haben:
+Schreiben Sie einen Brief an:
+ Oliver Kraheck
+ [Anschrift entfernt]
+ [Anschrift entfernt]
+Ich benötige Ihren Namen, Vornamen, Strasse, Postleitzahl, Wohnort, Land, Diskettenformat (3,5" oder 5,25").Wenn Sie welche haben, schreiben Sie mir Kritik, Vorschläge und Kommentare. Interessant ist auch, wo Sie die Sharewareversion bezogen haben.
+Die DM 30,- können Sie mir auf verschiedene Weise zukommen lassen:
+- Dem Brief beilegen (bar oder Scheck).
+- Überweisung (Versand nach Eingang) auf folgendes Konto:
+   [Bankverbindung entfernt]
+   [Bankverbindung entfernt]
+   [Bankverbindung entfernt]
+- Innerhalb Deutschlands kann auch per Nachnahme bezahlt werden. Da verdient die Post einige Mark mehr dran, die Sie tragen müssen (+ DM 8,-).
+$#KSystemvoraussetzungen
+
+Für dieses Spiel brauchen Sie erst einmal MS-Windows 3.1 und einen dazu passenden Computer.
+Einen solchen haben Sie, da die Hilfedatei sonst schwierig zu lesen wäre.
+
+Wenn Sie eine Soundkarte und den entsprechenden Windows-Treiber installiert haben, dann können Sie dank Windows ohne die bei der DOS-Version aufgetretenen Inkompatibilitäten den Sound genießen. Die Karte wird automatisch erkannt.
+
+Wenn Ihr aktuell installierter Windows-Grafiktreiber nur maximal 16 Farben darstellen kann, wird Ihnen das Bild an manchen Stellen (besonders auf dem 6-Spieler-Brett) etwas sonderbar vorkommen.
+Das liegt daran, daß Windows die verfügbaren Farben mit Standardwerten belegt und eigene Farbtöne nicht eingetragen werden können.
+Bei 256 Farben oder etwa High/TrueColor gibt es keine Probleme.
+$#KSpielregeln
+
+Das Spiel "Mensch ärgere Dich nicht" ist einfach zu verstehen und macht trotzdem, d.h. gerade deswegen viel Spaß.
+
+Es kann mit bis zu sechs Spielern gespielt werden. Sieger ist, wer zuerst seine vier Figuren ins Ziel gebracht hat. Die anderen Spieler können dann noch weiter spielen, um den zweiten Sieger zu bestimmen, usw.
+Der Beginner wird vom Computer per Zufall ausgewählt. Links unten ist zu sehen, welcher Spieler / welche Farbe gerade an der Reihe ist.
+
+Raussetzen
+Um eine Figur aus dem Start zu holen, muß eine 6 gewürfelt werden. Sind alle Figuren im Start oder die übrigen bereits im Ziel, darf dreimal gewürfelt werden, um eine 6 zu bekommen.Wenn eine 6 gewürfelt wird und noch mindestens eine Figur im Start ist, so muß diese auf jeden Fall rausgesetzt werden.
+Sollte das Startfeld besetzt sein, so muß dieses zunächst freigemacht werden; generell muß dies geschehen, wenn eine Figur auf dem Startfeld steht und noch Figuren im Start verweilen.
+Wird das Freimachen wiederum durch eine eigene Spielfigur verhindert, muß die entsprechende Figur zuerst weggesetzt werden, usw.
+
+Im Spiel
+Eine Figur wird so viele Felder im Uhrzeigersinn weitergesetzt, wie Augen gewürfelt werden.
+Prinzipiell darf sich der Spieler aussuchen, welche Figur er zieht. Ist das Zielfeld von einer eigenen Spielfigur besetzt, muß eine andere Figur gezogen werden. Befindet sich aber dort eine gegnerische Figur, so kann diese rausgeschmissen werden, d. h. sie wird in ihren Start zurückversetzt. Mensch ärgere Dich nicht!
+Figuren dürfen übersprungen werden, das Feld wird jedoch mitgezählt.
+
+Ziel
+Hat eine Figur ihre Runde (je nach Brett 40 oder 48 Felder) beendet, so befindet sie sich vor ihrem Ziel, in das fast normal gezogen wird. Die Unterschiede zum normalen Zug sind, daß keine gegnerische Figur in dieses Ziel ziehen kann und daß innerhalb des Zieles (4 Felder) keine Figur übersprungen werden darf.
+
+Also alles ganz easy...
+
+Zusätzlich zu diesen "normalen" Regeln haben Sie die Möglichkeit, einige Spielregeln selbst zu bestimmen / anzupassen. Dazu finden Sie unter SPIEL / SPIELREGELN die Einstellbaren SpielregelnEinstellbareSpielregeln.
+
+Wie Sie würfeln und ziehen erfahren Sie unter Maus- und TastaturbedienungXL.UV.
+
+Und nun wünsche ich Ihnen viel Spaß beim Spielen!
+$#KMaus- und Tastaturbedienung
+
+Die Bedienung per Maus und Tastatur ist jederzeit parallel möglich.
+
+Maus
+Um zu würfeln, brauchen Sie nichts weiter als zu klicken. Egal wo und mit welcher Maustaste, schon rollt der Würfel.
+Um eine Figur zu ziehen, klicken Sie auf die entsprechende Figur. Diese läuft von alleine los, so weit wie sie darf.
+
+Tastatur
+Zum Würfeln betätigen Sie entweder die LEERTASTE oder ENTER.
+Um eine Figur auszuwählen, drücken Sie zuerst TAB, ENTER oder die LEERTASTE. Daraufhin erscheint ein schwarzer Rahmen um eine der Figuren. Das ist die momentan gewählte Figur. Die anderen Figuren können nun nacheinander durch Betätigen der TAB-Taste ausgewählt werden.
+Nachdem Sie die gewünschte Figur angewählt haben, ziehen Sie sie mit ENTER oder der LEERTASTE.
+$ #KSpielstand speichern
+
+Wenn Sie ein Spiel einfrieren möchten, um es später von genau dieser Stellung aus weiterzuspielen, dann rufen Sie diesen Menüpunkt auf.
+Es erscheint ein Standard-Dateifenster, in dem Sie einen Namen für die zuspeichernde Datei eingeben.
+
+Der Spielstand kann über Spielstand ladenSpielstand_laden wiederhergestellt werden.
+$#KSpielstand laden
+
+Ein mit Spielstand speichernSpielstand_speichern zuvor gesichertes Spiel kann mit diesem Menüpunkt wiederhergestellt werden.
+Dazu werden Sie in einem Standard-Dateifenster aufgefordert, den beim Sichern verwendeten Dateinamen einzugeben.
+
+Zum Test können Sie den Spielstand BEISPIEL.ERG laden.
+$#KEinstellungen speichern
+
+Die Einstellungen werden bei jedem Start automatisch geladen.
+Wenn Sie die Einstellungen verändern und diese Änderungen bei den nächsten Aufrufen des Spieles erhalten bleiben sollen, rufen Sie diesen Menüpunkt auf.
+Es erfolgt keine Rückmeldung; beim Spielen von einer CD-ROM ist das Speichern der Einstellungen nicht möglich (erst nach Installation auf der Festplatte).
+
+Zu den Einstellungen zählen:
+ SpielbrettSpielbrett
+ Einstellbare SpielregelnEinstellbareSpielregeln
+ SoundSound
+ GeschwindigkeitGeschwindigkeit
+ Fenstergröße4J90_OD
+$#KBeenden
+
+Wenn gerade ein Spiel läuft, erscheint eine Sicherheitsabfrage, ansonsten wird das Programm ohne weiteres beendet (von dem Sound mal abgesehen).
+$ #KSpiel Neu / Beenden
+
+Mit dem Befehl NEUES SPIEL starten Sie ein neues Spiel mit den momentan gewählten Einstellungen.
+Ein eventuell laufendes Spiel wird dadurch abgebrochen.
+
+Mit SPIEL BEENDEN können Sie ein laufendes Spiel beenden. :-)
+$#KGewinner
+
+In diesem Fenster werden, sofern sie schon feststehen, die Gewinner des letzten bzw. laufenden Spiels angezeigt. Das Fenster ist über SPIEL/GEWINNER erreichbar und erscheint automatisch, sobald ein Spieler alle Figuren ins Ziel gebracht hat.
+Mit dem Knopf ENDE kann das Spiel schließlich beendet werden, bei OK wird um die übrigen Plätze weitergespielt.
+$#KSpieler
+
+In dem Dialogfenster können Sie für jeden Spieler einen Namen vergeben, der in der Anzeige rechts oben sowie im Gewinnerfenster erscheint.
+
+Außerdem wählen Sie, ob die jeweilige Farbe von einem Menschen (wie Sie und ich) oder vom Computer gesteuert wird oder etwa gar nicht mitspielt.$#KSpielbrett
+
+Wählen Sie zwischen einem Spielbrett für 4 oder für 6 Spieler.
+Beim 4-Spieler-Brett haben die SpielerSpieler 5 und 6 keine Bedeutung.
+
+Die Spielbrettgröße kann mit Einstellungen speichernEinstellungen_speichern gesichert werden.
+$#KEinstellbare Spielregeln
+
+Nicht zuletzt durch Ihre Hinweise habe ich festgestellt, daß es viele Spielvarianten von Mensch ärgere Dich nicht gibt.
+Diejenigen Spielregeln, auf die am häufigsten hingewiesen wurde und die mir am besten gefielen oder am sinnvollsten erschienen, sind nun verwirklicht worden.
+Folgende Spielregeln sind einstellbar:
+
+RuhefelderRuhefelder
+Schmeißzwang1T9V.11 - in drei Varianten
+Kein Selbstüberspringen7QYC_Z
+Bei 1 raussetzenBei1raussetzen
+Bei 1 nochmal würfelnGYUK32
+
+Die wählbaren Spielregeln können mit Einstellungen speichernEinstellungen_speichern gesichert werden.
+$#KRuhefelder
+
+Beim Spielen mit Ruhefeldern erscheinen auf dem 4-Spieler-Brett vier sowie auf dem 6-Spieler-Brett sechs graue Felder, die Ruhefelder.
+Eine Spielfigur, die auf einem Ruhefeld steht, kann nicht rausgeworfen werden.
+
+Das kann z.B. dazu führen, daß ein Spieler sein Startfeld nicht freimachen kann, wenn er mit einer Vier auf ein besetztes Ruhefeld stößt. Er kann dann nicht ziehen (evtl. Ausnahme durch Schmeißzwang1T9V.11).
+$#KSchmeißzwang
+
+Mit dieser Regel wird jeder Spieler, der eine fremde Figur schmeißen (schlagen, rauswerfen, rausschmeißen) kann, dazu gezwungen, es auch zu tun.
+Hat er mehrere Möglichkeiten zum Rauswerfen, so darf er eine beliebige aussuchen.
+Es gibt drei Varianten:
+
+Normal   (nur SCHMEISSZWANG gewählt)
+Die Schmeißzwang-Regel hat zwei Einschränkungen. Falls der Spieler noch gemäß den 'normalen' Regeln sein Startfeld freimachen müßte, so hat dies immer noch Vorrang.
+Genauso muß er eine Figur raussetzen, falls das möglich ist.
+
+Knallhart   (SCHMEISSZWANG und KNALLHART gewählt)
+Hier gibt es nur noch eine Einschränkung:
+Wenn der Spieler eine Figur raussetzen kann, so geht dies vor.
+Es kann jetzt auch geschmissen werden, wenn eigentlich noch das Startfeld zu räumen wäre.
+
+Absolut (SCHMEISSZWANG und ABSOLUT gewählt)
+Die Schmeißzwangregel steht über allen anderen. Sobald ein Schmeißen möglich ist, muß es ausgeführt werden; ganz egal, was andere Regeln dazu meinen.
+$#KKein Selbstüberspringen
+
+Die Regel, daß im Ziel keine Figuren übersprungen werden dürfen, wird auf das gesamte Spiel ausgedehnt.
+Es ist verboten, eine eigene Figur zu überspringen; die Figuren der anderen Spieler stellen jedoch kein Hindernis dar.
+$#KBei 1 raussetzen
+
+Zusätzlich zur Sechs muß/darf nun auch beim Würfeln einer Eins eine Figur rausgesetzt werden, falls dies grundsätzlich möglich ist.
+$#KBei 1 nochmal würfeln
+
+Zusätzlich zur Sechs darf nun auch beim Würfeln einer Eins anschließend noch einmal gewürfelt werden.
+$ #KSound
+
+Sofern Sie eine Soundkarte besitzen und die entsprechenden Windowstreiber installiert haben, können Sie die EFFEKTE und SPRACHE einschalten.
+
+SPRACHE umfaßt den Willkommensgruß und die Würfelzahlen, EFFEKTE die übrigen Geräusche.
+
+Je nach eingestellter GeschwindigkeitGeschwindigkeit werden die Effekte/Sprache reduziert.
+
+Diese Einstellungen können über Einstellungen speichernEinstellungen_speichern gesichert werden.
+$#KGeschwindigkeit
+Dieser Punkt ist neu. Das Tempo, in dem der Würfel würfelt, die Figuren über das Brett laufen und der Computer Züge macht, werden hier festgelegt.
+Die Einstellung erfolgt getrennt für die Züge, die vom Computer gesteuert werden und für solche, die Sie selbst ausführen.
+
+HINWEIS: Bei 'langsam' und 'normal' ertönen alle Soundeffekte, bei 'schnell' nur einige wenige und bei 'turbo' gar keine, da sie den Ablauf wieder stark bremsen würden.
+
+Diese Einstellungen können über Einstellungen speichernEinstellungen_speichern gesichert werden.
+$#KFenstergröße
+Es gibt drei mögliche Größen für das Fenster, bei denen das Spielbrett eine Ausdehnung von 200, 400 oder 700 Pixel hat.
+Je nach der Windows-Grafikauflösung ist die größte Ausdehnung nicht darstellbar (1024*768 mindestens erforderlich).
+Die verschiedenen Größen sind auch durch die windowsüblichen Techniken zur Dimensionierung von Fenstern einstellbar.
+
+Die Wahl der Fenstergröße kann über Einstellungen speichernEinstellungen_speichern gesichert werden.
+$ #KInteressantes
+
+Was verbirgt sich hinter diesen MeldungenMeldungen?
+Wieviele SystemressourcenQO96.P werden belegt?
+Wie kann ich dieses Spiel de-installierenDeInstallation?
+Wofür sind die verschiedenen DateienDateien da?
+PfuschtPfuschen der Computer etwa?
+Hilfe, FEHLERFehler!?
+$#KMeldungen
+
+Die Meldung "Zur Zeit kein Umschalten auf das 4-Spieler-Brett möglich" kann folgende Ursachen haben:
+1. Nur die Spieler 5 und 6, also Lila und Schwarz spielen mit. Diese beiden Farben fehlen auf dem 4-Spieler-Brett - es wären also keine Spieler mehr da!
+2. Auf den zusätzlichen Feldern des 6-Spieler-Bretts, die nach der internen Organisation vom schwarzen Startfeld bis vor das gelbe Startfeld reichen, befindet sich eine Figur der Spieler 1 bis 4. Die Felder fielen beim Umschalten weg und würden die Figuren mit sich ins Nirvana nehmen.
+
+Wenn versucht wird, die Größe 700*700 zu aktivieren, der Windows-Grafiktreiber jedoch nicht im 1024*768 oder einem höheren Modus läuft, so erscheint ein Hinweisfenster.
+
+Diese Meldungen sind alle, die durch das Spiel ausgegeben werden. Weitere obskure (Fehler-)Meldungen stammen wahrscheinlich von Windows selbst.
+$#KSystemressourcen
+
+Die leidigen Systemressourcen von Windows teilen sich in drei große Bereiche:
+Arbeitsspeicher, User-Ressourcen, GDI-Ressourcen.
+Die letzteren sind jeweils 64 KB, die Windows insgesamt zu vergeben hat. Im Programm-Manager-Info wird unter "Ressourcen" der niedrigste Wert dieser beiden angegeben.
+Der Arbeitsspeicher ist nicht der physikalisch existierende RAM-Speicher, sondern der Windows-Speicher, der durch Nutzung der Festplatte viel größer ist.
+
+"Mensch ärgere Dich nicht!" belegt maximal 2,4 MB Arbeitsspeicher, 2% User-Ressourcen und 10% GDI-Ressourcen.
+Bei Windowssystemen, deren grafische Auflösung unter 1024*768 liegt, werden die 700*700-Bilddaten nicht geladen, so daß in diesem Fall nur 800 KB Arbeitsspeicher, 1% User-Ressourcen und 7% GDI-Ressourcen belegt werden.
+
+Zum Vergleich:
+WinWord 6 belegt 0,5 MB, 19% User, 10% GDI.
+Excel 4 belegt 0,3 MB, 9% User, 12% GDI.
+Dabei handelt es sich jeweils um das nackte Programm, ohne ein Dokument geladen zu haben!
+$#KDe-Installation
+
+Wenn Sie sich schweren Herzens dazu durchgerungen haben, "Mensch ärgere Dich nicht!" wieder von der Festplatte auszulagern, um mehr Platz zu bekommen, dann geht das wenigstens reibungslos vonstatten.
+Sie brauchen lediglich das Verzeichnis samt Inhalt zu löschen, dazu noch aus dem Programm-Manager das Icon und eventuell die Programmgruppe zu entfernen.
+Das ist alles, da keine Eintragung in irgendeine INI-Datei vorgenommen wird und auch keine Dateien ins Windows- oder Systemverzeichnis kopiert werden.
+
+Trotzdem wird dieser Fall hoffentlich nie eintreten!
+$#KPfuschen!?
+
+NEIN!
+
+Genauso wie SIE es nicht schaffen werden, zu pfuschen, wird es auch der Computer nicht schaffen. Sie können zwar im geeigneten Moment gewisse Regeln verändern, aber über eingestellte Regeln hinwegsetzen können Sie sich auch nicht.
+Der Computer-Spieler ist absolut pfuschfrei programmiert; er wägt jedoch sorgfältig ab und wird niemals einen fahrlässigen Fehler begehen.
+
+Der Würfel ist pur durch den Zufallsgenerator bestimmt, der zu Borland Pascal gehört. Unwahrscheinliche Folgen (z.B. dreimal 6 hintereinander) sind ja nicht unmöglich. Sie fallen nur mehr auf als "gewöhnliche" Würfe.
+$#KDie Dateien im AERGER-Verzeichnis:
+
+AERGER  .EXE      Das Programm, das Sie aufrufen.
+AERGER  .CFG      Die gespeicherten Einstellungen.
+AERGER  .HLP      Diese Hilfedatei.
+GRAPH0? .DAT      1-4, Die Grafikdaten.
+GRAPH0? .IDX      1-4, Indexdaten, um die Grafiken zu laden.
+SOUNDS  .DAT      Die Soundeffekte.
+SOUNDS  .IDX      Index, um die Sounds korrekt zu laden.
+BWCC    .DLL      DLL für die Dialoge im 3D-Look.
+       *.ERG      Gespeicherte Spielstände.
+$#KFehler!?
+
+Obwohl Sie dem Programmierer unmöglich erscheinen, treten sie immer wieder auf. Das Programm wurde sehr sorgfältig getestet, aber es gibt immer wieder Konfigurationen von Soft- und Hardware, die irgendwie doch Fehler verursachen.
+Sie sind auf etwas Unerklärliches gestoßen? Dann sehen Sie bitte zuerst in den verschiedenen Themen dieser Hilfe nach, ob nicht doch eine Erklärung da ist, vielleicht hinter zweideutigen oder eben doch eindeutigen Angaben, Einstellungen, Optionen, etc. versteckt.
+
+Wenn das nicht hilft, dann wenden Sie sich an mich persönlich:
+Oliver Kraheck
+[Anschrift entfernt]
+[Anschrift entfernt]
+
+FidoNet: [entfernt]
+
+Beschreiben Sie genau, unter welchen Umständen der Fehler aufgetreten ist und wie er aussieht, was Sie versucht haben, dagegen zu tun und was sonst noch irgendwie damit zusammenzuhängen scheint. Ideal ist, falls möglich, ein gespeicherter Spielstand, bei dem der Fehler auftritt.
+

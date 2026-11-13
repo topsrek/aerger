@@ -1,0 +1,73 @@
+# AERGER.EXE timeline: seed 0x12345678, speed 0, 4 computer players, 5 rolls, rules 0000000, sounds on
+1201 roll
+1201 sound 2
+1202 face 3
+1267 face 6
+1332 face 6
+1397 face 6
+1462 face 6
+1527 face 4
+1592 face 5
+1657 face 3
+1722 face 6
+1787 face 5
+2372 sound 13
+2682 rolled 5 next 1
+3683 roll
+3683 sound 2
+3684 face 1
+3749 face 4
+3814 face 3
+3879 face 6
+3944 face 1
+4009 face 1
+4074 face 2
+4139 face 3
+4204 face 2
+4269 face 3
+4854 sound 11
+5234 rolled 3 next 1
+6235 roll
+6235 sound 2
+6236 face 5
+6301 face 4
+6366 face 3
+6431 face 2
+6496 face 5
+6561 face 4
+6626 face 2
+6691 face 3
+6756 face 1
+6821 face 1
+7406 sound 9
+7936 rolled 1 next 2
+9137 roll
+9137 sound 2
+9138 face 5
+9203 face 4
+9268 face 4
+9333 face 6
+9398 face 4
+9463 face 6
+9528 face 3
+9593 face 1
+9658 face 2
+9723 face 6
+10308 sound 14
+10718 rolled 6 move
+12719 sound 5
+12719 place 2 11 2
+13921 roll
+13921 sound 2
+13922 face 4
+13987 face 5
+14052 face 3
+14117 face 1
+14182 face 6
+14247 face 6
+14312 face 4
+14377 face 5
+14442 face 4
+14507 face 4
+15092 sound 12
+15472 rolled 4 move

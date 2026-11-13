@@ -1,0 +1,321 @@
+# AERGER.EXE timeline: seed 0x12345678, speed 2, 4 computer players, 24 rolls, rules 0000000
+101 roll
+102 face 3
+112 face 6
+122 face 6
+132 face 6
+142 face 6
+152 face 4
+162 face 5
+172 face 3
+182 face 6
+192 face 5
+282 rolled 5 next 1
+483 roll
+484 face 1
+494 face 4
+504 face 3
+514 face 6
+524 face 1
+534 face 1
+544 face 2
+554 face 3
+564 face 2
+574 face 3
+664 rolled 3 next 1
+865 roll
+866 face 5
+876 face 4
+886 face 3
+896 face 2
+906 face 5
+916 face 4
+926 face 2
+936 face 3
+946 face 1
+956 face 1
+1046 rolled 1 next 2
+1147 roll
+1148 face 5
+1158 face 4
+1168 face 4
+1178 face 6
+1188 face 4
+1198 face 6
+1208 face 3
+1218 face 1
+1228 face 2
+1238 face 6
+1328 rolled 6 move
+1529 place 2 11 2
+1631 roll
+1632 face 4
+1642 face 5
+1652 face 3
+1662 face 1
+1672 face 6
+1682 face 6
+1692 face 4
+1702 face 5
+1712 face 4
+1722 face 4
+1812 rolled 4 move
+2013 move 2 11
+2014 step 12
+2114 step 13
+2214 step 14
+2314 step 15
+2414 moved 3
+2515 roll
+2516 face 1
+2526 face 2
+2536 face 5
+2546 face 5
+2556 face 2
+2566 face 4
+2576 face 5
+2586 face 3
+2596 face 5
+2606 face 2
+2696 rolled 2 next 3
+2897 roll
+2898 face 5
+2908 face 4
+2918 face 6
+2928 face 4
+2938 face 5
+2948 face 3
+2958 face 1
+2968 face 1
+2978 face 2
+2988 face 6
+3078 rolled 6 move
+3279 place 3 21 3
+3381 roll
+3382 face 2
+3392 face 2
+3402 face 2
+3412 face 1
+3422 face 3
+3432 face 2
+3442 face 6
+3452 face 6
+3462 face 1
+3472 face 6
+3562 rolled 6 move
+3763 move 3 21
+3764 step 22
+3864 step 23
+3964 step 24
+4064 step 25
+4164 step 26
+4264 step 27
+4364 moved 3
+4465 roll
+4466 face 1
+4476 face 5
+4486 face 2
+4496 face 4
+4506 face 3
+4516 face 1
+4526 face 6
+4536 face 6
+4546 face 6
+4556 face 6
+4646 rolled 6 move
+4847 place 3 21 3
+4949 roll
+4950 face 1
+4960 face 5
+4970 face 1
+4980 face 2
+4990 face 2
+5000 face 2
+5010 face 3
+5020 face 4
+5030 face 6
+5040 face 2
+5130 rolled 2 move
+5331 move 3 21
+5332 step 22
+5432 step 23
+5532 moved 4
+5633 roll
+5634 face 6
+5644 face 5
+5654 face 6
+5664 face 1
+5674 face 4
+5684 face 5
+5694 face 2
+5704 face 6
+5714 face 4
+5724 face 1
+5814 rolled 1 next 4
+6015 roll
+6016 face 4
+6026 face 4
+6036 face 1
+6046 face 2
+6056 face 2
+6066 face 5
+6076 face 1
+6086 face 2
+6096 face 4
+6106 face 5
+6196 rolled 5 next 4
+6397 roll
+6398 face 3
+6408 face 6
+6418 face 2
+6428 face 1
+6438 face 2
+6448 face 4
+6458 face 3
+6468 face 1
+6478 face 1
+6488 face 5
+6578 rolled 5 next 1
+6679 roll
+6680 face 5
+6690 face 6
+6700 face 6
+6710 face 3
+6720 face 5
+6730 face 5
+6740 face 3
+6750 face 1
+6760 face 2
+6770 face 5
+6860 rolled 5 next 1
+7061 roll
+7062 face 1
+7072 face 3
+7082 face 2
+7092 face 5
+7102 face 1
+7112 face 3
+7122 face 5
+7132 face 3
+7142 face 4
+7152 face 5
+7242 rolled 5 next 1
+7443 roll
+7444 face 3
+7454 face 3
+7464 face 2
+7474 face 4
+7484 face 1
+7494 face 2
+7504 face 3
+7514 face 2
+7524 face 6
+7534 face 5
+7624 rolled 5 next 2
+7725 roll
+7726 face 5
+7736 face 5
+7746 face 2
+7756 face 5
+7766 face 4
+7776 face 6
+7786 face 3
+7796 face 2
+7806 face 6
+7816 face 2
+7906 rolled 2 move
+8107 move 2 15
+8108 step 16
+8208 step 17
+8308 moved 3
+8409 roll
+8410 face 3
+8420 face 5
+8430 face 2
+8440 face 1
+8450 face 1
+8460 face 4
+8470 face 5
+8480 face 1
+8490 face 3
+8500 face 5
+8590 rolled 5 move
+8791 move 3 27
+8792 step 28
+8892 step 29
+8992 step 30
+9092 step 31
+9192 step 32
+9292 moved 4
+9393 roll
+9394 face 2
+9404 face 5
+9414 face 5
+9424 face 3
+9434 face 6
+9444 face 3
+9454 face 2
+9464 face 1
+9474 face 6
+9484 face 1
+9574 rolled 1 next 4
+9775 roll
+9776 face 3
+9786 face 6
+9796 face 5
+9806 face 1
+9816 face 1
+9826 face 3
+9836 face 3
+9846 face 4
+9856 face 2
+9866 face 1
+9956 rolled 1 next 4
+10157 roll
+10158 face 2
+10168 face 5
+10178 face 2
+10188 face 2
+10198 face 4
+10208 face 4
+10218 face 4
+10228 face 3
+10238 face 2
+10248 face 5
+10338 rolled 5 next 1
+10439 roll
+10440 face 3
+10450 face 1
+10460 face 3
+10470 face 6
+10480 face 5
+10490 face 2
+10500 face 6
+10510 face 6
+10520 face 6
+10530 face 1
+10620 rolled 1 next 1
+10821 roll
+10822 face 2
+10832 face 2
+10842 face 6
+10852 face 2
+10862 face 5
+10872 face 4
+10882 face 3
+10892 face 2
+10902 face 5
+10912 face 4
+11002 rolled 4 next 1
+11203 roll
+11204 face 6
+11214 face 4
+11224 face 3
+11234 face 1
+11244 face 3
+11254 face 3
+11264 face 5
+11274 face 5
+11284 face 4
+11294 face 4
+11384 rolled 4 next 2

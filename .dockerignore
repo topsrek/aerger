@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-standalone
+scripts
+release
+.git
+.github
+original
+windows
+*.log

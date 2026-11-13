@@ -1,0 +1,212 @@
+# AERGER.EXE timeline: seed 0x0400064c, speed 1, 4 computer players, 12 rolls, rules 0000000, sounds on
+601 roll
+601 sound 2
+602 face 6
+627 face 3
+652 face 3
+677 face 6
+702 face 6
+727 face 1
+752 face 6
+777 face 1
+802 face 3
+827 face 5
+1441 sound 13
+1751 rolled 5 next 1
+2252 roll
+2252 sound 2
+2253 face 1
+2278 face 1
+2303 face 2
+2328 face 5
+2353 face 2
+2378 face 3
+2403 face 3
+2428 face 4
+2453 face 1
+2478 face 5
+3092 sound 13
+3402 rolled 5 next 1
+3903 roll
+3903 sound 2
+3904 face 4
+3929 face 3
+3954 face 5
+3979 face 5
+4004 face 2
+4029 face 2
+4054 face 6
+4079 face 6
+4104 face 5
+4129 face 4
+4743 sound 12
+5123 rolled 4 next 2
+5724 roll
+5724 sound 2
+5725 face 1
+5750 face 4
+5775 face 2
+5800 face 1
+5825 face 4
+5850 face 5
+5875 face 2
+5900 face 5
+5925 face 2
+5950 face 4
+6564 sound 12
+6944 rolled 4 next 2
+7445 roll
+7445 sound 2
+7446 face 1
+7471 face 4
+7496 face 1
+7521 face 4
+7546 face 4
+7571 face 3
+7596 face 6
+7621 face 2
+7646 face 2
+7671 face 6
+8285 sound 14
+8695 rolled 6 move
+9296 sound 5
+9296 place 2 11 2
+9898 roll
+9898 sound 2
+9899 face 5
+9924 face 2
+9949 face 2
+9974 face 5
+9999 face 2
+10024 face 2
+10049 face 1
+10074 face 5
+10099 face 3
+10124 face 6
+10738 sound 14
+11148 rolled 6 move
+11749 move 2 11
+11750 step 12
+11750 sound 6
+11950 step 13
+11950 sound 6
+12150 step 14
+12150 sound 6
+12350 step 15
+12350 sound 6
+12550 step 16
+12550 sound 6
+12750 step 17
+12750 sound 6
+12950 moved 2
+13551 roll
+13551 sound 2
+13552 face 5
+13577 face 4
+13602 face 5
+13627 face 5
+13652 face 2
+13677 face 2
+13702 face 4
+13727 face 3
+13752 face 6
+13777 face 4
+14391 sound 12
+14771 rolled 4 move
+15372 move 2 17
+15373 step 18
+15373 sound 6
+15573 step 19
+15573 sound 6
+15773 step 20
+15773 sound 6
+15973 step 21
+15973 sound 6
+16173 moved 3
+16774 roll
+16774 sound 2
+16775 face 1
+16800 face 6
+16825 face 1
+16850 face 4
+16875 face 4
+16900 face 4
+16925 face 2
+16950 face 5
+16975 face 2
+17000 face 3
+17614 sound 11
+17994 rolled 3 next 3
+18495 roll
+18495 sound 2
+18496 face 4
+18521 face 6
+18546 face 6
+18571 face 5
+18596 face 6
+18621 face 3
+18646 face 5
+18671 face 3
+18696 face 1
+18721 face 5
+19335 sound 13
+19645 rolled 5 next 3
+20146 roll
+20146 sound 2
+20147 face 3
+20172 face 3
+20197 face 4
+20222 face 1
+20247 face 2
+20272 face 1
+20297 face 1
+20322 face 1
+20347 face 3
+20372 face 6
+20986 sound 14
+21396 rolled 6 move
+21997 sound 3
+23137 sound 4
+25067 place 3 21 3
+25669 roll
+25669 sound 2
+25670 face 5
+25695 face 1
+25720 face 6
+25745 face 2
+25770 face 3
+25795 face 2
+25820 face 1
+25845 face 4
+25870 face 1
+25895 face 6
+26509 sound 14
+26919 rolled 6 move
+27520 move 3 21
+27521 step 22
+27521 sound 6
+27721 step 23
+27721 sound 6
+27921 step 24
+27921 sound 6
+28121 step 25
+28121 sound 6
+28321 step 26
+28321 sound 6
+28521 step 27
+28521 sound 6
+28721 moved 3
+29322 roll
+29322 sound 2
+29323 face 3
+29348 face 2
+29373 face 2
+29398 face 4
+29423 face 5
+29448 face 3
+29473 face 1
+29498 face 2
+29523 face 6
+29548 face 1
+30162 sound 9
+30692 rolled 1 move

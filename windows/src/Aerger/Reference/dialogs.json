@@ -1,0 +1,2292 @@
+{
+  "DLG_GEWINNER": {
+    "title": "Gewinner",
+    "style": 2160066690,
+    "width": 207,
+    "height": 128,
+    "controls": [
+      {
+        "id": 1,
+        "x": 70,
+        "y": 100,
+        "width": 32,
+        "height": 20,
+        "style": 1342242817,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 103,
+        "x": 92,
+        "y": 3,
+        "width": 29,
+        "height": 12,
+        "style": 1342210054,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 144,
+        "x": 75,
+        "y": 17,
+        "width": 62,
+        "height": 15,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 115,
+        "x": 5,
+        "y": 44,
+        "width": 9,
+        "height": 10,
+        "style": 1342210054,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 109,
+        "x": 17,
+        "y": 43,
+        "width": 50,
+        "height": 12,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 115,
+        "x": 72,
+        "y": 44,
+        "width": 9,
+        "height": 10,
+        "style": 1342210054,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 110,
+        "x": 84,
+        "y": 43,
+        "width": 50,
+        "height": 12,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 111,
+        "x": 152,
+        "y": 43,
+        "width": 50,
+        "height": 12,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 112,
+        "x": 50,
+        "y": 68,
+        "width": 50,
+        "height": 12,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 113,
+        "x": 118,
+        "y": 68,
+        "width": 50,
+        "height": 12,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 102,
+        "x": 96,
+        "y": 5,
+        "width": 21,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Sieger"
+      },
+      {
+        "id": 104,
+        "x": 7,
+        "y": 45,
+        "width": 6,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "2."
+      },
+      {
+        "id": 114,
+        "x": 5,
+        "y": 37,
+        "width": 197,
+        "height": 1,
+        "style": 1342177286,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 104,
+        "x": 74,
+        "y": 45,
+        "width": 6,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "3."
+      },
+      {
+        "id": 104,
+        "x": 142,
+        "y": 45,
+        "width": 6,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "4."
+      },
+      {
+        "id": 115,
+        "x": 140,
+        "y": 44,
+        "width": 9,
+        "height": 10,
+        "style": 1342210054,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 104,
+        "x": 40,
+        "y": 70,
+        "width": 6,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "5."
+      },
+      {
+        "id": 115,
+        "x": 38,
+        "y": 69,
+        "width": 9,
+        "height": 10,
+        "style": 1342210054,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 104,
+        "x": 108,
+        "y": 70,
+        "width": 6,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "6."
+      },
+      {
+        "id": 115,
+        "x": 106,
+        "y": 69,
+        "width": 9,
+        "height": 10,
+        "style": 1342210054,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 201,
+        "x": 77,
+        "y": 21,
+        "width": 57,
+        "height": 8,
+        "style": 1342308353,
+        "cls": "Static",
+        "text": ""
+      },
+      {
+        "id": 202,
+        "x": 19,
+        "y": 45,
+        "width": 45,
+        "height": 8,
+        "style": 1342308353,
+        "cls": "Static",
+        "text": ""
+      },
+      {
+        "id": 203,
+        "x": 86,
+        "y": 45,
+        "width": 45,
+        "height": 8,
+        "style": 1342308353,
+        "cls": "Static",
+        "text": ""
+      },
+      {
+        "id": 204,
+        "x": 154,
+        "y": 45,
+        "width": 45,
+        "height": 8,
+        "style": 1342308353,
+        "cls": "Static",
+        "text": ""
+      },
+      {
+        "id": 206,
+        "x": 120,
+        "y": 70,
+        "width": 45,
+        "height": 8,
+        "style": 1342308353,
+        "cls": "Static",
+        "text": ""
+      },
+      {
+        "id": 205,
+        "x": 52,
+        "y": 70,
+        "width": 45,
+        "height": 8,
+        "style": 1342308353,
+        "cls": "Static",
+        "text": ""
+      },
+      {
+        "id": 101,
+        "x": 111,
+        "y": 100,
+        "width": 32,
+        "height": 20,
+        "style": 1342242816,
+        "cls": "BorBtn",
+        "text": "Ende"
+      }
+    ]
+  },
+  "DLG_GROESSENICHT": {
+    "title": "Schade!",
+    "style": 2160066562,
+    "width": 124,
+    "height": 57,
+    "controls": [
+      {
+        "id": 1,
+        "x": 46,
+        "y": 33,
+        "width": 32,
+        "height": 20,
+        "style": 1342242817,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 101,
+        "x": 2,
+        "y": 3,
+        "width": 120,
+        "height": 26,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 102,
+        "x": 5,
+        "y": 8,
+        "width": 115,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Der aktuelle Windows-Grafiktreiber"
+      },
+      {
+        "id": 103,
+        "x": 8,
+        "y": 17,
+        "width": 109,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "erlaubt diese Fenstergröße nicht."
+      }
+    ]
+  },
+  "DLG_INFO": {
+    "title": "Info",
+    "style": 2160066690,
+    "width": 159,
+    "height": 193,
+    "controls": [
+      {
+        "id": 1,
+        "x": 65,
+        "y": 169,
+        "width": 32,
+        "height": 20,
+        "style": 1342242817,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 101,
+        "x": 38,
+        "y": 10,
+        "width": 87,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Mensch ärgere Dich nicht! "
+      },
+      {
+        "id": 102,
+        "x": 59,
+        "y": 21,
+        "width": 41,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "für Windows"
+      },
+      {
+        "id": 103,
+        "x": 35,
+        "y": 6,
+        "width": 91,
+        "height": 25,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 104,
+        "x": 10,
+        "y": 41,
+        "width": 139,
+        "height": 36,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 105,
+        "x": 14,
+        "y": 44,
+        "width": 111,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Copyright 1995 by Oliver Kraheck"
+      },
+      {
+        "id": 106,
+        "x": 14,
+        "y": 58,
+        "width": 77,
+        "height": 8,
+        "style": 1342177408,
+        "cls": "BorStatic",
+        "text": "Spielidee & Gestaltung:"
+      },
+      {
+        "id": 107,
+        "x": 14,
+        "y": 66,
+        "width": 131,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Copyright Schmitt Spiel + Freizeit GmbH"
+      },
+      {
+        "id": 108,
+        "x": 7,
+        "y": 84,
+        "width": 75,
+        "height": 65,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 109,
+        "x": 11,
+        "y": 87,
+        "width": 26,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Autor:"
+      },
+      {
+        "id": 110,
+        "x": 11,
+        "y": 97,
+        "width": 60,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Oliver Kraheck"
+      },
+      {
+        "id": 111,
+        "x": 11,
+        "y": 106,
+        "width": 56,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "[Anschrift entfernt]"
+      },
+      {
+        "id": 112,
+        "x": 11,
+        "y": 115,
+        "width": 69,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "[Anschrift entfernt]"
+      },
+      {
+        "id": 113,
+        "x": 11,
+        "y": 126,
+        "width": 69,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Tel.: [entfernt]"
+      },
+      {
+        "id": 114,
+        "x": 11,
+        "y": 138,
+        "width": 66,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Fido: [entfernt]"
+      },
+      {
+        "id": 115,
+        "x": 89,
+        "y": 84,
+        "width": 63,
+        "height": 65,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 116,
+        "x": 93,
+        "y": 87,
+        "width": 49,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Titelbilder:"
+      },
+      {
+        "id": 117,
+        "x": 93,
+        "y": 97,
+        "width": 47,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Albert Gehret"
+      },
+      {
+        "id": 118,
+        "x": 93,
+        "y": 112,
+        "width": 40,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Tester:"
+      },
+      {
+        "id": 119,
+        "x": 93,
+        "y": 122,
+        "width": 44,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Ulf Borcherdt"
+      },
+      {
+        "id": 120,
+        "x": 93,
+        "y": 131,
+        "width": 45,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Klaus Pittig"
+      },
+      {
+        "id": 121,
+        "x": 7,
+        "y": 152,
+        "width": 145,
+        "height": 12,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 122,
+        "x": 11,
+        "y": 154,
+        "width": 55,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Seriennummer:"
+      },
+      {
+        "id": 42,
+        "x": 70,
+        "y": 154,
+        "width": 45,
+        "height": 8,
+        "style": 1342308352,
+        "cls": "Static",
+        "text": ""
+      },
+      {
+        "id": 119,
+        "x": 93,
+        "y": 139,
+        "width": 44,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "u.v.m."
+      }
+    ]
+  },
+  "DLG_KEINUMSCHALTEN": {
+    "title": "",
+    "style": 2155872386,
+    "width": 136,
+    "height": 55,
+    "controls": [
+      {
+        "id": 1,
+        "x": 53,
+        "y": 32,
+        "width": 32,
+        "height": 20,
+        "style": 1342242817,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 101,
+        "x": 2,
+        "y": 3,
+        "width": 133,
+        "height": 25,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 102,
+        "x": 5,
+        "y": 7,
+        "width": 127,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Ein Umschalten auf das 4-Spieler-Brett"
+      },
+      {
+        "id": 103,
+        "x": 25,
+        "y": 17,
+        "width": 84,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "ist zur Zeit nicht möglich."
+      }
+    ]
+  },
+  "DLG_NEU_FRAGE": {
+    "title": "",
+    "style": 2151677954,
+    "width": 121,
+    "height": 51,
+    "controls": [
+      {
+        "id": 1,
+        "x": 17,
+        "y": 26,
+        "width": 32,
+        "height": 20,
+        "style": 1342242817,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 7,
+        "x": 71,
+        "y": 26,
+        "width": 32,
+        "height": 20,
+        "style": 1342242816,
+        "cls": "BorBtn",
+        "text": ""
+      },
+      {
+        "id": 101,
+        "x": 4,
+        "y": 4,
+        "width": 114,
+        "height": 16,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 102,
+        "x": 7,
+        "y": 9,
+        "width": 109,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Wollen Sie das Spiel abbrechen?"
+      }
+    ]
+  },
+  "DLG_REGELN": {
+    "title": "Spielregeln",
+    "style": 2160066690,
+    "width": 122,
+    "height": 131,
+    "controls": [
+      {
+        "id": 101,
+        "x": 13,
+        "y": 9,
+        "width": 47,
+        "height": 10,
+        "style": 1342373891,
+        "cls": "BorCheck",
+        "text": "Ruhefelder"
+      },
+      {
+        "id": 102,
+        "x": 13,
+        "y": 23,
+        "width": 65,
+        "height": 10,
+        "style": 1342177283,
+        "cls": "BorCheck",
+        "text": "Schmeisszwang"
+      },
+      {
+        "id": 103,
+        "x": 24,
+        "y": 34,
+        "width": 40,
+        "height": 10,
+        "style": 1342177283,
+        "cls": "BorCheck",
+        "text": "knallhart"
+      },
+      {
+        "id": 104,
+        "x": 24,
+        "y": 45,
+        "width": 39,
+        "height": 10,
+        "style": 1342177283,
+        "cls": "BorCheck",
+        "text": "absolut"
+      },
+      {
+        "id": 105,
+        "x": 13,
+        "y": 59,
+        "width": 89,
+        "height": 10,
+        "style": 1342177283,
+        "cls": "BorCheck",
+        "text": "kein Selbstüberspringen"
+      },
+      {
+        "id": 106,
+        "x": 13,
+        "y": 73,
+        "width": 83,
+        "height": 10,
+        "style": 1342177283,
+        "cls": "BorCheck",
+        "text": "auch bei 1 raussetzen"
+      },
+      {
+        "id": 107,
+        "x": 13,
+        "y": 87,
+        "width": 100,
+        "height": 10,
+        "style": 1342177283,
+        "cls": "BorCheck",
+        "text": "auch bei 1 nochmal würfeln"
+      },
+      {
+        "id": 107,
+        "x": 6,
+        "y": 5,
+        "width": 111,
+        "height": 95,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 1,
+        "x": 45,
+        "y": 107,
+        "width": 32,
+        "height": 20,
+        "style": 1342373889,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      }
+    ]
+  },
+  "DLG_SIZE": {
+    "title": "Größe",
+    "style": 2160066690,
+    "width": 86,
+    "height": 78,
+    "controls": [
+      {
+        "id": 101,
+        "x": 11,
+        "y": 10,
+        "width": 29,
+        "height": 10,
+        "style": 1342373897,
+        "cls": "BorRadio",
+        "text": "Klein"
+      },
+      {
+        "id": 102,
+        "x": 11,
+        "y": 25,
+        "width": 28,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "Mittel "
+      },
+      {
+        "id": 103,
+        "x": 11,
+        "y": 40,
+        "width": 27,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "Groß"
+      },
+      {
+        "id": 1,
+        "x": 27,
+        "y": 55,
+        "width": 32,
+        "height": 20,
+        "style": 1342373889,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 105,
+        "x": 7,
+        "y": 7,
+        "width": 73,
+        "height": 45,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 106,
+        "x": 46,
+        "y": 11,
+        "width": 33,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "(200*200)"
+      },
+      {
+        "id": 107,
+        "x": 46,
+        "y": 26,
+        "width": 31,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "(400*400)"
+      },
+      {
+        "id": 108,
+        "x": 46,
+        "y": 41,
+        "width": 32,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "(700*700)"
+      }
+    ]
+  },
+  "DLG_SOUND": {
+    "title": "Sound",
+    "style": 2160066690,
+    "width": 59,
+    "height": 71,
+    "controls": [
+      {
+        "id": 101,
+        "x": 11,
+        "y": 11,
+        "width": 37,
+        "height": 10,
+        "style": 1342242819,
+        "cls": "BorCheck",
+        "text": "Sprache"
+      },
+      {
+        "id": 102,
+        "x": 11,
+        "y": 26,
+        "width": 35,
+        "height": 10,
+        "style": 1342242819,
+        "cls": "BorCheck",
+        "text": "Effekte"
+      },
+      {
+        "id": 1,
+        "x": 13,
+        "y": 45,
+        "width": 32,
+        "height": 20,
+        "style": 1342242817,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 65535,
+        "x": 7,
+        "y": 7,
+        "width": 45,
+        "height": 32,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      }
+    ]
+  },
+  "DLG_SPEED": {
+    "title": "Geschwindigkeit",
+    "style": 2160066690,
+    "width": 115,
+    "height": 106,
+    "controls": [
+      {
+        "id": 1,
+        "x": 41,
+        "y": 82,
+        "width": 32,
+        "height": 20,
+        "style": 1342373889,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 101,
+        "x": 9,
+        "y": 26,
+        "width": 41,
+        "height": 10,
+        "style": 1342308361,
+        "cls": "BorRadio",
+        "text": "Langsam"
+      },
+      {
+        "id": 102,
+        "x": 9,
+        "y": 38,
+        "width": 40,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "Normal"
+      },
+      {
+        "id": 103,
+        "x": 9,
+        "y": 50,
+        "width": 39,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "Schnell"
+      },
+      {
+        "id": 104,
+        "x": 9,
+        "y": 62,
+        "width": 32,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "Turbo"
+      },
+      {
+        "id": 105,
+        "x": 66,
+        "y": 26,
+        "width": 41,
+        "height": 10,
+        "style": 1342308361,
+        "cls": "BorRadio",
+        "text": "Langsam"
+      },
+      {
+        "id": 106,
+        "x": 66,
+        "y": 38,
+        "width": 40,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "Normal"
+      },
+      {
+        "id": 107,
+        "x": 66,
+        "y": 50,
+        "width": 39,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "Schnell"
+      },
+      {
+        "id": 108,
+        "x": 66,
+        "y": 62,
+        "width": 32,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "Turbo"
+      },
+      {
+        "id": 101,
+        "x": 6,
+        "y": 22,
+        "width": 46,
+        "height": 52,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 101,
+        "x": 63,
+        "y": 22,
+        "width": 46,
+        "height": 52,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 105,
+        "x": 6,
+        "y": 10,
+        "width": 33,
+        "height": 9,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": "Computer"
+      },
+      {
+        "id": 105,
+        "x": 63,
+        "y": 10,
+        "width": 27,
+        "height": 9,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": "Mensch"
+      }
+    ]
+  },
+  "DLG_SPIELBRETT": {
+    "title": "Spielbrett",
+    "style": 2160066690,
+    "width": 80,
+    "height": 75,
+    "controls": [
+      {
+        "id": 101,
+        "x": 11,
+        "y": 9,
+        "width": 61,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "4-Spieler-Brett"
+      },
+      {
+        "id": 102,
+        "x": 11,
+        "y": 26,
+        "width": 62,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "6-Spieler-Brett"
+      },
+      {
+        "id": 1,
+        "x": 24,
+        "y": 50,
+        "width": 32,
+        "height": 20,
+        "style": 1342177281,
+        "cls": "BorBtn",
+        "text": "Ok"
+      },
+      {
+        "id": 103,
+        "x": 7,
+        "y": 7,
+        "width": 67,
+        "height": 32,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      }
+    ]
+  },
+  "DLG_SPIELER": {
+    "title": "Spieler",
+    "style": 2160066690,
+    "width": 257,
+    "height": 216,
+    "controls": [
+      {
+        "id": 65535,
+        "x": 9,
+        "y": 8,
+        "width": 67,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Spieler 1  (Gelb)"
+      },
+      {
+        "id": 101,
+        "x": 36,
+        "y": 25,
+        "width": 45,
+        "height": 12,
+        "style": 1350631424,
+        "cls": "Edit",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 9,
+        "y": 27,
+        "width": 21,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Name"
+      },
+      {
+        "id": 102,
+        "x": 9,
+        "y": 45,
+        "width": 41,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Mensch"
+      },
+      {
+        "id": 103,
+        "x": 9,
+        "y": 58,
+        "width": 44,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Computer"
+      },
+      {
+        "id": 104,
+        "x": 9,
+        "y": 71,
+        "width": 46,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "spielt nicht"
+      },
+      {
+        "id": 65535,
+        "x": 5,
+        "y": 21,
+        "width": 79,
+        "height": 2,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 5,
+        "y": 40,
+        "width": 79,
+        "height": 3,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 4,
+        "y": 2,
+        "width": 80,
+        "height": 83,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 94,
+        "y": 8,
+        "width": 65,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Spieler 2  (Grün)"
+      },
+      {
+        "id": 65535,
+        "x": 90,
+        "y": 21,
+        "width": 79,
+        "height": 2,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 94,
+        "y": 27,
+        "width": 21,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Name"
+      },
+      {
+        "id": 105,
+        "x": 121,
+        "y": 25,
+        "width": 45,
+        "height": 12,
+        "style": 1350631424,
+        "cls": "Edit",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 90,
+        "y": 40,
+        "width": 79,
+        "height": 3,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 89,
+        "y": 2,
+        "width": 80,
+        "height": 83,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 106,
+        "x": 94,
+        "y": 45,
+        "width": 41,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Mensch"
+      },
+      {
+        "id": 107,
+        "x": 94,
+        "y": 58,
+        "width": 44,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Computer"
+      },
+      {
+        "id": 108,
+        "x": 94,
+        "y": 71,
+        "width": 46,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "spielt nicht"
+      },
+      {
+        "id": 65535,
+        "x": 179,
+        "y": 8,
+        "width": 68,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Spieler 3  (Rot)"
+      },
+      {
+        "id": 65535,
+        "x": 174,
+        "y": 2,
+        "width": 80,
+        "height": 83,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 175,
+        "y": 21,
+        "width": 79,
+        "height": 2,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 179,
+        "y": 27,
+        "width": 21,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Name"
+      },
+      {
+        "id": 109,
+        "x": 206,
+        "y": 25,
+        "width": 45,
+        "height": 12,
+        "style": 1350631424,
+        "cls": "Edit",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 175,
+        "y": 40,
+        "width": 79,
+        "height": 3,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 110,
+        "x": 179,
+        "y": 45,
+        "width": 41,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Mensch"
+      },
+      {
+        "id": 111,
+        "x": 179,
+        "y": 58,
+        "width": 44,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Computer"
+      },
+      {
+        "id": 112,
+        "x": 179,
+        "y": 71,
+        "width": 46,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "spielt nicht"
+      },
+      {
+        "id": 65535,
+        "x": 4,
+        "y": 91,
+        "width": 80,
+        "height": 83,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 9,
+        "y": 97,
+        "width": 66,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Spieler 4  (Blau)"
+      },
+      {
+        "id": 65535,
+        "x": 5,
+        "y": 110,
+        "width": 79,
+        "height": 2,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 9,
+        "y": 116,
+        "width": 21,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Name"
+      },
+      {
+        "id": 113,
+        "x": 36,
+        "y": 114,
+        "width": 45,
+        "height": 12,
+        "style": 1350631424,
+        "cls": "Edit",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 5,
+        "y": 129,
+        "width": 79,
+        "height": 3,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 114,
+        "x": 9,
+        "y": 134,
+        "width": 41,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Mensch"
+      },
+      {
+        "id": 115,
+        "x": 9,
+        "y": 147,
+        "width": 44,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Computer"
+      },
+      {
+        "id": 116,
+        "x": 9,
+        "y": 160,
+        "width": 46,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "spielt nicht"
+      },
+      {
+        "id": 65535,
+        "x": 94,
+        "y": 97,
+        "width": 67,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Spieler 5  (Lila)"
+      },
+      {
+        "id": 65535,
+        "x": 90,
+        "y": 110,
+        "width": 79,
+        "height": 2,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 94,
+        "y": 116,
+        "width": 21,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Name"
+      },
+      {
+        "id": 117,
+        "x": 121,
+        "y": 114,
+        "width": 45,
+        "height": 12,
+        "style": 1350631424,
+        "cls": "Edit",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 89,
+        "y": 91,
+        "width": 80,
+        "height": 83,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 90,
+        "y": 129,
+        "width": 79,
+        "height": 3,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 118,
+        "x": 94,
+        "y": 134,
+        "width": 41,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Mensch"
+      },
+      {
+        "id": 119,
+        "x": 94,
+        "y": 147,
+        "width": 44,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Computer"
+      },
+      {
+        "id": 120,
+        "x": 94,
+        "y": 160,
+        "width": 46,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "spielt nicht"
+      },
+      {
+        "id": 65535,
+        "x": 179,
+        "y": 97,
+        "width": 66,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Spieler 6  (Schwarz)"
+      },
+      {
+        "id": 65535,
+        "x": 175,
+        "y": 110,
+        "width": 79,
+        "height": 2,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 179,
+        "y": 116,
+        "width": 21,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Name"
+      },
+      {
+        "id": 121,
+        "x": 206,
+        "y": 114,
+        "width": 45,
+        "height": 12,
+        "style": 1350631424,
+        "cls": "Edit",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 174,
+        "y": 91,
+        "width": 80,
+        "height": 83,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 175,
+        "y": 129,
+        "width": 79,
+        "height": 3,
+        "style": 1342177282,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 122,
+        "x": 179,
+        "y": 134,
+        "width": 41,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Mensch"
+      },
+      {
+        "id": 123,
+        "x": 179,
+        "y": 147,
+        "width": 44,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "Computer"
+      },
+      {
+        "id": 124,
+        "x": 179,
+        "y": 160,
+        "width": 46,
+        "height": 10,
+        "style": 1342242825,
+        "cls": "BorRadio",
+        "text": "spielt nicht"
+      },
+      {
+        "id": 1,
+        "x": 70,
+        "y": 186,
+        "width": 32,
+        "height": 20,
+        "style": 1342242817,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 2,
+        "x": 155,
+        "y": 186,
+        "width": 32,
+        "height": 20,
+        "style": 1342242816,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      }
+    ]
+  },
+  "DLG_SPIELERAENDERUNG": {
+    "title": "",
+    "style": 2151677952,
+    "width": 123,
+    "height": 53,
+    "controls": [
+      {
+        "id": 1,
+        "x": 45,
+        "y": 30,
+        "width": 32,
+        "height": 20,
+        "style": 1342242817,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 101,
+        "x": 2,
+        "y": 2,
+        "width": 119,
+        "height": 25,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 103,
+        "x": 5,
+        "y": 5,
+        "width": 113,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Die Änderungen werden nach dem"
+      },
+      {
+        "id": 104,
+        "x": 24,
+        "y": 16,
+        "width": 77,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "nächsten Zug wirksam."
+      }
+    ]
+  },
+  "DLG_ANGABEN": {
+    "title": "Bitte ausfüllen!",
+    "style": 2160066562,
+    "width": 307,
+    "height": 203,
+    "controls": [
+      {
+        "id": 65535,
+        "x": 6,
+        "y": 22,
+        "width": 295,
+        "height": 151,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 12,
+        "y": 7,
+        "width": 283,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Felder, die Sie freilassen, können Sie auf dem Ausdruck von Hand / Stempel ausfüllen."
+      },
+      {
+        "id": 65535,
+        "x": 6,
+        "y": 5,
+        "width": 295,
+        "height": 12,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 12,
+        "y": 28,
+        "width": 54,
+        "height": 8,
+        "style": 1342308352,
+        "cls": "BorStatic",
+        "text": "Vorname, &Name:"
+      },
+      {
+        "id": 101,
+        "x": 69,
+        "y": 26,
+        "width": 226,
+        "height": 12,
+        "style": 1350631424,
+        "cls": "Edit",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 42,
+        "y": 42,
+        "width": 24,
+        "height": 8,
+        "style": 1342308352,
+        "cls": "BorStatic",
+        "text": "&Straße:"
+      },
+      {
+        "id": 102,
+        "x": 69,
+        "y": 41,
+        "width": 226,
+        "height": 12,
+        "style": 1350631424,
+        "cls": "Edit",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 50,
+        "y": 58,
+        "width": 16,
+        "height": 8,
+        "style": 1342308352,
+        "cls": "BorStatic",
+        "text": "&PLZ:"
+      },
+      {
+        "id": 103,
+        "x": 69,
+        "y": 56,
+        "width": 48,
+        "height": 12,
+        "style": 1350631424,
+        "cls": "Edit",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 125,
+        "y": 58,
+        "width": 12,
+        "height": 8,
+        "style": 1342308352,
+        "cls": "BorStatic",
+        "text": "&Ort:"
+      },
+      {
+        "id": 104,
+        "x": 140,
+        "y": 56,
+        "width": 155,
+        "height": 12,
+        "style": 1350631424,
+        "cls": "Edit",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 47,
+        "y": 73,
+        "width": 19,
+        "height": 8,
+        "style": 1342308352,
+        "cls": "BorStatic",
+        "text": "&Land:"
+      },
+      {
+        "id": 105,
+        "x": 69,
+        "y": 71,
+        "width": 127,
+        "height": 12,
+        "style": 1350631424,
+        "cls": "Edit",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 11,
+        "y": 94,
+        "width": 53,
+        "height": 8,
+        "style": 1342308352,
+        "cls": "BorStatic",
+        "text": "&Diskettenformat:"
+      },
+      {
+        "id": 106,
+        "x": 11,
+        "y": 106,
+        "width": 36,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "3,5 ''"
+      },
+      {
+        "id": 107,
+        "x": 11,
+        "y": 117,
+        "width": 33,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "5,25 ''"
+      },
+      {
+        "id": 65535,
+        "x": 79,
+        "y": 94,
+        "width": 115,
+        "height": 8,
+        "style": 1342308352,
+        "cls": "BorStatic",
+        "text": "Die &Registriergebühr von DM 30,- "
+      },
+      {
+        "id": 108,
+        "x": 79,
+        "y": 106,
+        "width": 91,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "wird in bar beigelegt."
+      },
+      {
+        "id": 109,
+        "x": 79,
+        "y": 117,
+        "width": 108,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "wird als Scheck beigelegt."
+      },
+      {
+        "id": 110,
+        "x": 79,
+        "y": 128,
+        "width": 67,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "wird überwiesen."
+      },
+      {
+        "id": 111,
+        "x": 79,
+        "y": 150,
+        "width": 136,
+        "height": 10,
+        "style": 1342177289,
+        "cls": "BorRadio",
+        "text": "bezahle ich per Nachnahme (+ DM 8,-)."
+      },
+      {
+        "id": 120,
+        "x": 6,
+        "y": 178,
+        "width": 78,
+        "height": 20,
+        "style": 1342242816,
+        "cls": "Button",
+        "text": "Drucker &einstellen..."
+      },
+      {
+        "id": 1,
+        "x": 224,
+        "y": 178,
+        "width": 32,
+        "height": 20,
+        "style": 1342373889,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 2,
+        "x": 269,
+        "y": 178,
+        "width": 32,
+        "height": 20,
+        "style": 1342242816,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 65535,
+        "x": 88,
+        "y": 139,
+        "width": 143,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "(Bankverbindung siehe Ausdruck oder Hilfe)"
+      },
+      {
+        "id": 65535,
+        "x": 88,
+        "y": 161,
+        "width": 188,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Nachnahmeversand nur innerhalb Deutschland möglich!"
+      },
+      {
+        "id": 65535,
+        "x": 120,
+        "y": 184,
+        "width": 86,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Alles fertig zum Drucken?"
+      },
+      {
+        "id": 65535,
+        "x": 112,
+        "y": 178,
+        "width": 99,
+        "height": 20,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 6,
+        "y": 88,
+        "width": 295,
+        "height": 2,
+        "style": 1342177284,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 71,
+        "y": 88,
+        "width": 1,
+        "height": 85,
+        "style": 1342177285,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 65535,
+        "x": 97,
+        "y": 173,
+        "width": 1,
+        "height": 30,
+        "style": 1342177286,
+        "cls": "BorShade",
+        "text": ""
+      }
+    ]
+  },
+  "DLG_DRUCKHINWEIS": {
+    "title": "Hinweis",
+    "style": 2160066562,
+    "width": 224,
+    "height": 96,
+    "controls": [
+      {
+        "id": 1,
+        "x": 96,
+        "y": 71,
+        "width": 32,
+        "height": 20,
+        "style": 1342242816,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 101,
+        "x": 5,
+        "y": 4,
+        "width": 214,
+        "height": 63,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 102,
+        "x": 10,
+        "y": 20,
+        "width": 204,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Auf dem Ausdruck dürfen Sie noch freiwillige Angaben machen:"
+      },
+      {
+        "id": 103,
+        "x": 12,
+        "y": 31,
+        "width": 198,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "- Wie bzw. von wem haben Sie diese Testversion erhalten?"
+      },
+      {
+        "id": 104,
+        "x": 12,
+        "y": 42,
+        "width": 167,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "- Irgendwelche Anregungen, Kritik, Vorschläge, etc."
+      },
+      {
+        "id": 105,
+        "x": 16,
+        "y": 53,
+        "width": 131,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Ich freue mich über jeden Kommentar!"
+      },
+      {
+        "id": 106,
+        "x": 10,
+        "y": 9,
+        "width": 180,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Setzen Sie auf dem Ausdruck nun Ihre Unterschrift ein!"
+      }
+    ]
+  },
+  "DLG_SHAREWARE": {
+    "title": "Schon wieder dieses Fenster!?",
+    "style": 2160066562,
+    "width": 285,
+    "height": 198,
+    "controls": [
+      {
+        "id": 6,
+        "x": 185,
+        "y": 171,
+        "width": 32,
+        "height": 20,
+        "style": 1342242817,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 7,
+        "x": 229,
+        "y": 171,
+        "width": 32,
+        "height": 20,
+        "style": 1342242816,
+        "cls": "BorBtn",
+        "text": "Schalter"
+      },
+      {
+        "id": 102,
+        "x": 68,
+        "y": 15,
+        "width": 149,
+        "height": 9,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "-  Mensch ärgere Dich nicht!  -  ist Shareware."
+      },
+      {
+        "id": 103,
+        "x": 7,
+        "y": 7,
+        "width": 272,
+        "height": 157,
+        "style": 1342210049,
+        "cls": "BorShade",
+        "text": ""
+      },
+      {
+        "id": 104,
+        "x": 11,
+        "y": 34,
+        "width": 260,
+        "height": 9,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Sie benutzen gerade die Testversion des Spieles. Wenn Ihnen das Programm "
+      },
+      {
+        "id": 104,
+        "x": 11,
+        "y": 44,
+        "width": 258,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "gefällt, müssen Sie sich registrieren. Wenn Ihnen SHAREWARE kein Begriff ist,"
+      },
+      {
+        "id": 104,
+        "x": 11,
+        "y": 54,
+        "width": 258,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "dann schauen Sie einmal in die Hilfe."
+      },
+      {
+        "id": 104,
+        "x": 11,
+        "y": 69,
+        "width": 258,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Zur Registrierung klicken Sie gleich JA an und geben Ihre Adresse etc. ein."
+      },
+      {
+        "id": 104,
+        "x": 11,
+        "y": 79,
+        "width": 258,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Dann wird ein Formular ausgedruckt, das Sie an den Autor schicken."
+      },
+      {
+        "id": 104,
+        "x": 11,
+        "y": 149,
+        "width": 258,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Falls Sie keinen Drucker haben, lesen Sie in der Hilfe den Punkt SHAREWARE."
+      },
+      {
+        "id": 104,
+        "x": 11,
+        "y": 94,
+        "width": 258,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Für den Betrag von DM 30,- erhalten Sie:"
+      },
+      {
+        "id": 104,
+        "x": 17,
+        "y": 104,
+        "width": 173,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "- Die aktuelle Vollversion OHNE diese Hinweise."
+      },
+      {
+        "id": 104,
+        "x": 17,
+        "y": 114,
+        "width": 258,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "- Das Recht auf ein kostenloses Update."
+      },
+      {
+        "id": 104,
+        "x": 17,
+        "y": 124,
+        "width": 258,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "- Eine Nachricht, sobald ein Update / neues Programm erscheint."
+      },
+      {
+        "id": 104,
+        "x": 17,
+        "y": 134,
+        "width": 258,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "- Ein ruhiges Gewissen."
+      },
+      {
+        "id": 105,
+        "x": 13,
+        "y": 177,
+        "width": 148,
+        "height": 8,
+        "style": 1342177280,
+        "cls": "BorStatic",
+        "text": "Wollen Sie jetzt die Registrierung erledigen?"
+      },
+      {
+        "id": 106,
+        "x": 7,
+        "y": 174,
+        "width": 157,
+        "height": 14,
+        "style": 1342210054,
+        "cls": "BorShade",
+        "text": ""
+      }
+    ]
+  }
+}

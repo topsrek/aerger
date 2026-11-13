@@ -1,0 +1,20 @@
+* text=auto eol=lf
+*.wav binary
+*.ico binary
+*.cur binary
+*.png binary
+*.ERG binary
+*.erg binary
+*.EXE binary
+*.DLL binary
+*.DAT binary
+*.IDX binary
+*.HLP binary
+*.CFG binary
+*.rtf -text
+*.cs -text
+*.csproj -text
+*.ps1 -text
+windows/**/*.json -text
+windows/**/*.txt -text
+windows/README.md -text

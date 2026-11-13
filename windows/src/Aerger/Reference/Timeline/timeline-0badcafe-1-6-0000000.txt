@@ -1,0 +1,130 @@
+# AERGER.EXE timeline: seed 0x0badcafe, speed 1, 6 computer players, 10 rolls, rules 0000000
+601 roll
+602 face 5
+627 face 6
+652 face 4
+677 face 1
+702 face 5
+727 face 1
+752 face 6
+777 face 4
+802 face 4
+827 face 2
+1052 rolled 2 next 1
+1553 roll
+1554 face 6
+1579 face 1
+1604 face 6
+1629 face 4
+1654 face 4
+1679 face 3
+1704 face 4
+1729 face 5
+1754 face 3
+1779 face 5
+2004 rolled 5 next 1
+2505 roll
+2506 face 3
+2531 face 3
+2556 face 2
+2581 face 6
+2606 face 6
+2631 face 3
+2656 face 1
+2681 face 2
+2706 face 1
+2731 face 4
+2956 rolled 4 next 2
+3557 roll
+3558 face 2
+3583 face 3
+3608 face 1
+3633 face 5
+3658 face 1
+3683 face 4
+3708 face 1
+3733 face 1
+3758 face 1
+3783 face 1
+4008 rolled 1 next 2
+4509 roll
+4510 face 2
+4535 face 4
+4560 face 2
+4585 face 1
+4610 face 6
+4635 face 2
+4660 face 2
+4685 face 6
+4710 face 2
+4735 face 2
+4960 rolled 2 next 2
+5461 roll
+5462 face 2
+5487 face 6
+5512 face 4
+5537 face 1
+5562 face 2
+5587 face 3
+5612 face 5
+5637 face 4
+5662 face 3
+5687 face 5
+5912 rolled 5 next 3
+6513 roll
+6514 face 3
+6539 face 6
+6564 face 2
+6589 face 1
+6614 face 5
+6639 face 6
+6664 face 3
+6689 face 5
+6714 face 5
+6739 face 2
+6964 rolled 2 next 3
+7465 roll
+7466 face 3
+7491 face 3
+7516 face 5
+7541 face 4
+7566 face 5
+7591 face 2
+7616 face 2
+7641 face 1
+7666 face 4
+7691 face 6
+7916 rolled 6 move
+8517 place 3 17 3
+9119 roll
+9120 face 4
+9145 face 3
+9170 face 1
+9195 face 1
+9220 face 5
+9245 face 3
+9270 face 4
+9295 face 1
+9320 face 1
+9345 face 6
+9570 rolled 6 move
+10171 move 3 17
+10172 step 18
+10372 step 19
+10572 step 20
+10772 step 21
+10972 step 22
+11172 step 23
+11372 moved 3
+11973 roll
+11974 face 4
+11999 face 6
+12024 face 6
+12049 face 1
+12074 face 6
+12099 face 6
+12124 face 1
+12149 face 4
+12174 face 4
+12199 face 4
+12424 rolled 4 move

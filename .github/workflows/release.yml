@@ -1,0 +1,52 @@
+name: Release
+
+# Ein Tag wie v1.0.0 baut beide Downloads und legt das Release an:
+#   Aerger.html         – das ganze Spiel in einer Datei
+#   Aerger-Windows.zip  – die Windows-Portierung (Aerger.exe + Data)
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 26
+          cache: npm
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Aerger.html
+        run: |
+          npm ci --no-audit --no-fund
+          npm test
+          npm run standalone
+
+      - name: Aerger-Windows.zip
+        shell: pwsh
+        run: |
+          ./windows/build.ps1
+          Compress-Archive -Path windows/release/Aerger.exe, windows/release/Data -DestinationPath Aerger-Windows.zip
+
+      - name: Release anlegen
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $version = '${{ github.ref_name }}'.TrimStart('v')
+          $notes = @'
+          **Im Browser spielen:** https://topsrek.github.io/aerger/
+
+          **Aerger.html** – das ganze Spiel in einer Datei: herunterladen, doppelklicken, läuft in jedem aktuellen Browser ohne Internet und ohne Installation.
+
+          **Aerger-Windows.zip** – die originalgetreue Fassung für Windows 10/11 (64 Bit): entpacken, `Aerger.exe` starten, nichts installieren. `Aerger.exe` und den Ordner `Data` zusammenhalten.
+          '@ -replace '(?m)^ {10}', ''
+          Set-Content -Path notes.md -Value $notes -Encoding utf8
+          gh release create '${{ github.ref_name }}' dist-standalone/Aerger.html Aerger-Windows.zip --title "Mensch ärgere Dich nicht! $version" --notes-file notes.md

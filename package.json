@@ -1,0 +1,28 @@
+{
+  "name": "aerger",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "test": "vitest run",
+    "standalone": "npm run build && node scripts/standalone.mjs",
+    "start": "node server/server.mjs",
+    "bench": "vitest run --config vite.bench.config.ts --reporter=verbose",
+    "e2e": "node test/e2e/play.mjs",
+    "shots": "node test/e2e/shots.mjs"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.6",
+    "@types/node": "^26.6.6",
+    "playwright-core": "^1.64.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5",
+    "vitest": "^5.1.0"
+  },
+  "dependencies": {
+    "@fontsource/comic-neue": "^5.3.0",
+    "preact": "^11.1.1"
+  }
+}

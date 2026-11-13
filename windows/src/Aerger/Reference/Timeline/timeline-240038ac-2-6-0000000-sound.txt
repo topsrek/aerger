@@ -1,0 +1,172 @@
+# AERGER.EXE timeline: seed 0x240038ac, speed 2, 6 computer players, 11 rolls, rules 0000000, sounds on
+101 roll
+102 face 3
+112 face 3
+122 face 4
+132 face 4
+142 face 1
+152 face 3
+162 face 6
+172 face 5
+182 face 4
+192 face 4
+282 rolled 4 next 1
+483 roll
+484 face 3
+494 face 2
+504 face 6
+514 face 4
+524 face 2
+534 face 2
+544 face 1
+554 face 1
+564 face 4
+574 face 4
+664 rolled 4 next 1
+865 roll
+866 face 3
+876 face 2
+886 face 4
+896 face 2
+906 face 1
+916 face 6
+926 face 1
+936 face 1
+946 face 3
+956 face 2
+1046 rolled 2 next 2
+1147 roll
+1148 face 5
+1158 face 5
+1168 face 6
+1178 face 5
+1188 face 6
+1198 face 4
+1208 face 1
+1218 face 3
+1228 face 4
+1238 face 6
+1328 rolled 6 move
+1529 sound 5
+1529 place 2 9 2
+1631 roll
+1632 face 6
+1642 face 2
+1652 face 2
+1662 face 2
+1672 face 6
+1682 face 2
+1692 face 2
+1702 face 3
+1712 face 2
+1722 face 6
+1812 rolled 6 move
+2013 move 2 9
+2014 step 10
+2014 sound 6
+2114 step 11
+2114 sound 6
+2214 step 12
+2214 sound 6
+2314 step 13
+2314 sound 6
+2414 step 14
+2414 sound 6
+2514 step 15
+2514 sound 6
+2614 moved 2
+2715 roll
+2716 face 2
+2726 face 1
+2736 face 4
+2746 face 3
+2756 face 5
+2766 face 4
+2776 face 2
+2786 face 6
+2796 face 6
+2806 face 5
+2896 rolled 5 move
+3097 move 2 15
+3098 step 16
+3098 sound 6
+3198 step 17
+3198 sound 6
+3298 step 18
+3298 sound 6
+3398 step 19
+3398 sound 6
+3498 step 20
+3498 sound 6
+3598 moved 3
+3699 roll
+3700 face 2
+3710 face 2
+3720 face 1
+3730 face 3
+3740 face 2
+3750 face 2
+3760 face 1
+3770 face 1
+3780 face 1
+3790 face 2
+3880 rolled 2 next 3
+4081 roll
+4082 face 6
+4092 face 6
+4102 face 2
+4112 face 6
+4122 face 6
+4132 face 3
+4142 face 5
+4152 face 2
+4162 face 2
+4172 face 6
+4262 rolled 6 move
+4463 sound 5
+4463 place 3 17 3
+4565 roll
+4566 face 4
+4576 face 3
+4586 face 5
+4596 face 2
+4606 face 1
+4616 face 5
+4626 face 2
+4636 face 1
+4646 face 3
+4656 face 3
+4746 rolled 3 move
+4947 sound 3
+6087 move 3 17
+6088 step 18
+6088 sound 6
+6188 step 19
+6188 sound 6
+6288 step 20
+6288 sound 6
+6388 moved 4
+6489 roll
+6490 face 5
+6500 face 6
+6510 face 4
+6520 face 4
+6530 face 6
+6540 face 6
+6550 face 5
+6560 face 1
+6570 face 1
+6580 face 1
+6670 rolled 1 next 4
+6871 roll
+6872 face 6
+6882 face 3
+6892 face 6
+6902 face 1
+6912 face 2
+6922 face 2
+6932 face 5
+6942 face 5
+6952 face 4
+6962 face 3
+7052 rolled 3 next 4
